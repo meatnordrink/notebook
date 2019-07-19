@@ -1,6 +1,6 @@
 ~~I had a look at those campaigns. The structure is in the right place. I wouldn't have a separate campaign for "CBT For Depression". My suggestion is to make that as a separate ad group within your CBT campaigns.~~
     
-    
+    --test change!
     
 ~~As for the campaigns. The Broad campaign is currently using pure broad match keyword settings. Change those to BMM to keep things anchored in. To do that place a + before every word. eg. +CBT or +CBT +depression~~
 
