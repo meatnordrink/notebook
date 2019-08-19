@@ -5,6 +5,7 @@
 * Broader (2-5%) lookalike (failed badly.)
 3/25
 * Tested reducing placements on Onboard CA group. Also created iOS-only group. Budget also increased to ~220/day; this may lower efficiency of all. May have to re-test as relative in new environment. 
+* Aug 2019: Instagram Feed Ads bombed. 
 
 ### Testing
 
@@ -12,8 +13,10 @@
 * "Free" creative
 * Retargeting
 * Instagram stories, varied creative. 
+* Switched IG Feed campaign from bid cap to lowest cost, Aug 12th (was not spending).
+* Onboard - lowest cost campaign; disabled fern `learn more`, added fern `signed up`, Aug 12th. (Also added to bid-cap onboard-end signed-up audience & clicked download audience.) ***check***
 
-### To check
+### To check/Do
 
 * Turned off "free" creative in signed-up audience July 26th. Standard-sign-up was $1.27 at that point; Fern was 1.80, but spending $200 vs $10. See if this changes post-26th shut-down of "free" creative. Could consider shutting off fern and seeing what happens. 
 
@@ -53,12 +56,10 @@
 * Different bid strategies (Target ROAS?)
 					
 
-
-
-## Some general shit: 
+## Some general shit:
 
 * Try shutting down one or the other of the campaigns for a week, while changing nothing else. (Past tests have suggested people from each campaign convert similarly, but this may have changed.)
-  * Could try adding utm_source back in while on web-only pathway. 
+  * Could try adding utm_source back in while on web-only pathway.
   * The bounce rates for google cpc vs facebook suggest that Google clicks may be more valuable, as far as website clicks; but I don't totally trust these numbers, and also, it doesn't mean they buy more.  
 
 

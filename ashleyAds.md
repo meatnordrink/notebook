@@ -36,14 +36,6 @@
 * Try adding "free" to any campaigns with app in the name. 
 
 ## Questions
-* Approach to take if CPA is significantly exceeding target CPA?
-
-* Declining spend w/time?
-
-* How to check if a word is a variant? i.e., depressed/depression?
-
-* With fight/overcome/beat depression - variants that are harder to use in add copy like "battle", "cope" - separate campaign, or include as search terms for one of the fight/overcome/beat group?
-  * Same question, but with "therapy/treatment." A lot of people are going to search for it, but we really *can't* use it in our ads. Best strategy? 
 
 * App Install Campaigns - can't specify keywords??? Or networks? Or anything???
   * ~~Try creating another one from scratch~~ Yep, can't specify anything. 
@@ -55,3 +47,4 @@
 
 * For the "brand-specific" campaign, I'm seeing really high search ranking and ad interaction, but hardly any conversions. Does this imply that I'm getting a lot of irrelevant clicks?
   
+* FB - IG Stories seems to be routinely exceeding bid-cap. Is it a good strategy???
