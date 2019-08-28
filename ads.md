@@ -23,7 +23,6 @@
 * Instagram costs seem like they're creeping up. Reduced spend; try new creative variations. 
 * Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
 
-
 ### Next
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
