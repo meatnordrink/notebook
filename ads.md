@@ -1,5 +1,7 @@
 *`Goals` are based on actions taken in the `vs` period.*
 
+# Ads
+
 ##FB
 ### Tested:
 * Broader (2-5%) lookalike (failed badly.)
@@ -18,8 +20,8 @@
 
 ### To check/Do
 
-* Turned off "free" creative in signed-up audience July 26th. Standard-sign-up was $1.27 at that point; Fern was 1.80, but spending $200 vs $10. See if this changes post-26th shut-down of "free" creative. Could consider shutting off fern and seeing what happens. 
-
+* Instagram costs seem like they're creeping up. Reduced spend; try new creative variations. 
+* Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
 
 
 ### Next
@@ -40,22 +42,58 @@
 
 ## Google
 
+## Tested
+* Responsive ads - not great so far. Not horrible, but worse than expanded text. Tried in Depression BMM;Depression General, and Mood Journal EM & BMM;Mood Tracker. In the latter, increased spend, but at very high CPR.
+### Keywords Tested: 
+* Free Mood Tracking (No spend as of Aug 2019)
+* (Neg) `+CBT +Self +Online` - spent nothing.
+
 ## In Progress: 
 
-* Add a couple more responsive ads, monitor. 
-	* Responsive ads currently in: 
-		- Depression General, BMM
-			- *** Check out how this does with increased target CPA *** 
-			- Also check out how new customer testimonial ad does.
-		- Mood Tracker, EM, BMM
-			- *** Also check on new `free mood tracker` keywords, new `mood tracking` ad group in BMM. *** 
-		- CBT, BMM (`+CBT +Self +Online` was added only to this ad group, and not as a negative keyword. ***CHECK OUT***)
-	* Increased target CPA late Jul 23rd. (May only have taken effect 26)
+- Depression General, BMM
+	- **?**Check out how new customer testimonial ad does.
+		- **->** Did quite well in Depression BMM, Depression General. Expanded to (Aug 28): 
+			- Depression BMM, Depression App
+			- "", Beat Depression
+			- "", Fight Depression
+			- Depression EM, Depression General
+		- **CHECK**
+	- *** new `mood tracking` ad group in BMM. *** 
+		- **->** `mood tracking` did well, relatively. Disabled ;Mood Tracker in Mood Journal BMM in favor of ;Mood Tracking.
+* Increased target CPA late Jul 23rd. (May only have taken effect 26)
+- **->** Seems to have had positive effect; spend increased, with only a small increase in CPA.
+
+## To check on: 
+
+* See above. 
+* In `Depression BMM;Fight Depression`, created ad variation, swapped Fight Depression line and The Depression App that Works line (order). See if that improves relevance. (Was a 7.) - AUg 28
+* From `Depression BMM; Depression Self-help`, broke out `+depression +help` into own ad group, tailored url extensions from help to self-help. Ditto for `Depression EM`. Aug 28
+
+
 
 ## To try:
 
 * Different bid strategies (Target ROAS?)
+* Break out `mdd`, `major depressive disorder` from Depression BMM and EM.
+* "" `getting depression`
+* Try customizing extensions to match ads for better relevance scores. 
+* Consider custom landing pages to improve relevance scores. Try one or two at first. 
+* `Depression and anxiety` campaign. 
 					
+
+
+
+# Q's for Ashley
+
+* Since Aug 28th 2019, started disabling campaigns that were spending little but doing nothing. Cool?
+* Different bid strategies?
+
+
+
+
+
+
+
 
 ## Some general shit:
 
@@ -68,5 +106,5 @@
 
 
 ## FB
-* Instagram ads seem to have higher cost-per-onboard-end, but lower per sign-up. Yay. (July '19, preliminary)
+* Instagram ads seem to have higher cost-per-onboard-end, but lower per sign-up. Yay. (July '19, preliminary) (Aug 27 - but this seems to be dropping; prob necessary to keep creative varied.)
 * Sign-up audience is slightly underperforming onboard-end audience...but it might be worth it to have a different audience to aim at, to increase spend. (July '19, preliminary - will sign-ups improve after I winnow the ads?)
