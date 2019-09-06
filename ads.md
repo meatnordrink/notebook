@@ -65,8 +65,8 @@
 ## To check on: 
 
 * See above. 
-* In `Depression BMM;Fight Depression`, created ad variation, swapped Fight Depression line and The Depression App that Works line (order). See if that improves relevance. (Was a 7.) - AUg 28
-* From `Depression BMM; Depression Self-help`, broke out `+depression +help` into own ad group, tailored url extensions from help to self-help. Ditto for `Depression EM`. Aug 28
+* In `Depression BMM;Fight Depression`, created ad variation, swapped Fight Depression line and The Depression App that Works line (order). See if that improves relevance. Also created new variation, "You Can Fight Depression", same goal. (Was a 7.) - Aug 28
+* From `Depression BMM; Depression Self-help`, broke out `+depression +help` into own ad group, tailored url extensions from help to self-help. See if relevance increases (was 7; others 8. Costs were 1.73/1.41, BMM/EM). Ditto for `Depression EM`, though the relevance was fine for that one. Aug 28
 
 
 
