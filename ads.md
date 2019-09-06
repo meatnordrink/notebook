@@ -23,6 +23,20 @@
 * Instagram costs seem like they're creeping up. Reduced spend; try new creative variations. 
 * Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
 
+<<<<<<< HEAD
+	### Next
+		* A/B creative - IN PROGRESS; could do more.
+		* Test different call to actions. -- IN PROGRESS
+		* Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.)
+		* Vary text in creative.
+		* Try dynamic creative again.
+		* Try a/b'ing "bid cap" vs "lowest cost", other strategies. **IN PROGRESS, CHECK**
+		* From Ashley:
+			* Create a campaign to retarget non-converters
+			* Custom creative for ads in this campaign?
+		* Try an ad "telling a story" about someone who reduced their depression with UpLift; feature a user quote, a pic of a young woman/old woman (maybe try both? Or in separate groups? Or campaigns? One to start?) Consider trying the same with a video. Try running it on Instagram.
+		* Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
+=======
 ### Next
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
@@ -37,6 +51,13 @@
 	* **Try the same thing, but with a FB or IG Feed ad (text as text, pic of person - same pic)**
 * Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
 * Try busting out most successful ads into own campaigns
+>>>>>>> 1bef6864354500f7232af3b25e30b9a5e0538303
+
+		* Create IG Feed Ad Campaign with same assets as Stories. **IN PROGRESS, CHECK**
+		* Try Audience Network-only campaign, see how it does.
+		* Try targeting signed-up, while we're still on web.
+
+		* Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
 
 ## Google
@@ -93,6 +114,12 @@
 
 
 
+
+		* Figure out why the app install campaign isn't performing. Says no download conversion action is set up; figure out how to do this. (Ask Ashley.)
+			* Set up app conversion event for Google Play installs, once we're actually listed on the Play store. 
+
+		* Create anxiety campaign
+		
 
 ## Some general shit:
 
