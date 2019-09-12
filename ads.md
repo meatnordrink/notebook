@@ -2,7 +2,8 @@
 
 # Ads
 
-##FB
+# FB
+
 ### Tested:
 * Broader (2-5%) lookalike (failed badly.)
 3/25
@@ -21,22 +22,11 @@
 ### To check/Do
 
 * Instagram costs seem like they're creeping up. Reduced spend; try new creative variations. 
-* Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
+    * Remaining higher; re-introduced an initially-tossed creative. (Black woman.) Check that out. 
+* Turned off higher-cost ad (Download CTA) for lowest-cost ad campaign. Was 2.19 vs 2.41, 163 total conversions (in last 14 days). ***Check***
+* (Sept. 9) Increased signed-up audience budget to $40
+* (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
 
-<<<<<<< HEAD
-	### Next
-		* A/B creative - IN PROGRESS; could do more.
-		* Test different call to actions. -- IN PROGRESS
-		* Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.)
-		* Vary text in creative.
-		* Try dynamic creative again.
-		* Try a/b'ing "bid cap" vs "lowest cost", other strategies. **IN PROGRESS, CHECK**
-		* From Ashley:
-			* Create a campaign to retarget non-converters
-			* Custom creative for ads in this campaign?
-		* Try an ad "telling a story" about someone who reduced their depression with UpLift; feature a user quote, a pic of a young woman/old woman (maybe try both? Or in separate groups? Or campaigns? One to start?) Consider trying the same with a video. Try running it on Instagram.
-		* Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
-=======
 ### Next
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
@@ -51,7 +41,6 @@
 	* **Try the same thing, but with a FB or IG Feed ad (text as text, pic of person - same pic)**
 * Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
 * Try busting out most successful ads into own campaigns
->>>>>>> 1bef6864354500f7232af3b25e30b9a5e0538303
 
 		* Create IG Feed Ad Campaign with same assets as Stories. **IN PROGRESS, CHECK**
 		* Try Audience Network-only campaign, see how it does.
@@ -60,7 +49,7 @@
 		* Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
 
-## Google
+# Google
 
 ## Tested
 * Responsive ads - not great so far. Not horrible, but worse than expanded text. Tried in Depression BMM;Depression General, and Mood Journal EM & BMM;Mood Tracker. In the latter, increased spend, but at very high CPR.
@@ -88,8 +77,11 @@
 * See above. 
 * In `Depression BMM;Fight Depression`, created ad variation, swapped Fight Depression line and The Depression App that Works line (order). See if that improves relevance. Also created new variation, "You Can Fight Depression", same goal. (Was a 7.) - Aug 28
 * From `Depression BMM; Depression Self-help`, broke out `+depression +help` into own ad group, tailored url extensions from help to self-help. See if relevance increases (was 7; others 8. Costs were 1.73/1.41, BMM/EM). Ditto for `Depression EM`, though the relevance was fine for that one. Aug 28
-
-
+* Added [Depression Help] as a negative keyword to `Depression BMM; Depression General`; see if `Depression EM: Depression Help` performance improves. (Had 1 conversion Jun 1-Sept 6).
+	To check on specifics: 
+	* See if `Get Out of Depression Now` performs better with `get_out_of/depression` or `depression/program` url. 
+	* Compare various tagline phrasings; remove low performers.
+* (Sep 9) Added explicit price ad variant to `depression BMM; depression general`. ***Check***
 
 ## To try:
 
