@@ -26,6 +26,7 @@
 * Turned off higher-cost ad (Download CTA) for lowest-cost ad campaign. Was 2.19 vs 2.41, 163 total conversions (in last 14 days). ***Check***
 * (Sept. 9) Increased signed-up audience budget to $40
 * (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
+* Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
 
 ### Next
 * A/B creative - IN PROGRESS; could do more.
@@ -42,9 +43,9 @@
 * Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
 * Try busting out most successful ads into own campaigns
 
-		* Create IG Feed Ad Campaign with same assets as Stories. **IN PROGRESS, CHECK**
+
 		* Try Audience Network-only campaign, see how it does.
-		* Try targeting signed-up, while we're still on web.
+		* Try targeting signed-up, while we're still on web. - IN PROGRESS
 
 		* Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
@@ -90,6 +91,7 @@
 * "" `getting depression`
 * Try customizing extensions to match ads for better relevance scores. 
 * Consider custom landing pages to improve relevance scores. Try one or two at first. 
+	* Expand on this - try deep-linking at some point; ask Danielle how possible it is. 
 * `Depression and anxiety` campaign. 
 					
 
