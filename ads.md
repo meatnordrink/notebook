@@ -60,29 +60,37 @@
 
 ## In Progress: 
 
-- Depression General, BMM
-	- **?**Check out how new customer testimonial ad does.
-		- **->** Did quite well in Depression BMM, Depression General. Expanded to (Aug 28): 
-			- Depression BMM, Depression App
-			- "", Beat Depression
-			- "", Fight Depression
-			- Depression EM, Depression General
-		- **CHECK**
-	- *** new `mood tracking` ad group in BMM. *** 
-		- **->** `mood tracking` did well, relatively. Disabled ;Mood Tracker in Mood Journal BMM in favor of ;Mood Tracking.
+* See below.
 * Increased target CPA late Jul 23rd. (May only have taken effect 26)
 - **->** Seems to have had positive effect; spend increased, with only a small increase in CPA.
 
 ## To check on: 
 
 * See above. 
-* In `Depression BMM;Fight Depression`, created ad variation, swapped Fight Depression line and The Depression App that Works line (order). See if that improves relevance. Also created new variation, "You Can Fight Depression", same goal. (Was a 7.) - Aug 28
-* From `Depression BMM; Depression Self-help`, broke out `+depression +help` into own ad group, tailored url extensions from help to self-help. See if relevance increases (was 7; others 8. Costs were 1.73/1.41, BMM/EM). Ditto for `Depression EM`, though the relevance was fine for that one. Aug 28
-* Added [Depression Help] as a negative keyword to `Depression BMM; Depression General`; see if `Depression EM: Depression Help` performance improves. (Had 1 conversion Jun 1-Sept 6).
-	To check on specifics: 
-	* See if `Get Out of Depression Now` performs better with `get_out_of/depression` or `depression/program` url. 
-	* Compare various tagline phrasings; remove low performers.
+
 * (Sep 9) Added explicit price ad variant to `depression BMM; depression general`. ***Check***
+   - Explicit cost ad seems to be doing well. Copied to: 
+     * `depression EMM: depression general`
+	 * `CBT BMM: all groups` (customized)
+
+
+**Get out of depression**:
+* (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this. If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
+**Depression Help**: 
+ * Added second ad. 
+ * See neg. below
+ * Try breaking out a campaign for `how to help {x} with depression`
+**Depression self-help**: 
+* Added `self-help` negative keyword to `depression help`; see if performance improves. (9/18)
+**Fight Depression**
+* Lots of ad variants. Check out. 
+**CBT BMM: All groups**
+* Added explicit price ad. 
+* Consider turning off responsive search ad on `CBT` group. Left on for now, as it's increasing spend for the account, I think...but it's costing significantly more. 
+
+* Switched to monthly budgeting for main campaign, 9/18. Check out. 
+* Increased budget from 1620 to 1520, Sept. 18. 
+* Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
 
 ## To try:
 
@@ -93,6 +101,7 @@
 * Consider custom landing pages to improve relevance scores. Try one or two at first. 
 	* Expand on this - try deep-linking at some point; ask Danielle how possible it is. 
 * `Depression and anxiety` campaign. 
+* `How to`...`depression naturally` campaign. (Check out `Beat depression` for example search terms.)
 					
 
 
