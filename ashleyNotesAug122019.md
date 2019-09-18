@@ -9,6 +9,8 @@
 * campaign level-exclusion for uplift loans, travel - phrase match '' on brand and brand+generic. (Exclude uplift login?)
     - Done. `"uplift loans" "uplift travel" "uplift desk" across brand, brand + generic.` Did not exclude `uplift login`. 
 * Examine where ad relevance is low
+
+STILL DO DO
 * Ad creative variants to ad groups; vary one line only. 
     - Sort of did this; expanded the "testimonial" creative that was introduced recently and did well.
 * IF possible - look at uploading actual customer lists as custom audiences. 
