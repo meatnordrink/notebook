@@ -8,25 +8,29 @@
 * Broader (2-5%) lookalike (failed badly.)
 3/25
 * Tested reducing placements on Onboard CA group. Also created iOS-only group. Budget also increased to ~220/day; this may lower efficiency of all. May have to re-test as relative in new environment. 
-* Aug 2019: Instagram Feed Ads bombed. 
+* Aug 2019: Instagram Feed Ads bombed.
+* Desktop only - July 2019. Failed badly. Could try with more targeted creative/to specific audiences. 
+* "Download" CTA doesn't seem to do as well as 'learn more' or 'sign up'.
 
 ### Testing
 
-* July 2019 - Desktop only, sign-up based audience, new creative
-* "Free" creative
-* Retargeting
-* Instagram stories, varied creative. 
-* Switched IG Feed campaign from bid cap to lowest cost, Aug 12th (was not spending).
-* Onboard - lowest cost campaign; disabled fern `learn more`, added fern `signed up`, Aug 12th. (Also added to bid-cap onboard-end signed-up audience & clicked download audience.) ***check***
+* New IG Stories ad group, Sept. 19th. If does okay, experiment with different call-to-actions for best ads. 
+ * If these don't spend, consider forcing spend by running as an a/b.
+* New Sept creative for onboard-end, sign-up. Experiment calls to action, shift evidence (see below) or free text to forefront.
+ * Whatever does well from this or IG Stories, try on retargeting groups. 
+
 
 ### To check/Do
 
-* Instagram costs seem like they're creeping up. Reduced spend; try new creative variations. 
-    * Remaining higher; re-introduced an initially-tossed creative. (Black woman.) Check that out. 
-* Turned off higher-cost ad (Download CTA) for lowest-cost ad campaign. Was 2.19 vs 2.41, 163 total conversions (in last 14 days). ***Check***
-* (Sept. 9) Increased signed-up audience budget to $40
+* REST OF ASHLEYS REC'S: Carousel, regional (also, try to get Google to whitelist us for audiences.)
+
+* If sign-up audience ultimately seems better than onboard-end, aim Instagram at that. (Consider keeping onboard-end, but with a lower bid cap.)
+
+* Next - try putting IG stories creative in FB feed ads;they had low costs there. (cross competition; same audience..?) (maybe just the images...?)
+* If costs remain high on two main campaigns, reduce target bids. 
+
 * (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
-* Turned off two high-spending IG Stories ads, Aug 27; check on within-group spend. 
+    * Seem to be doing very well (Sept. 19th) - try on other campaigns when results of new pics in. 
 
 ### Next
 * A/B creative - IN PROGRESS; could do more.
@@ -34,20 +38,14 @@
 * Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.) -- IN PROGRESS
 * Vary text in creative. -- IN PROGRESS
 * Try dynamic creative again.
-* Try a/b'ing "bid cap" vs "lowest cost", other strategies. 
-* From Ashley: 
-	* Create a campaign to retarget non-converters -- IN PROGRESS 
-	* Custom creative for ads in this campaign? 
-* Try an ad "telling a story" about someone who reduced their depression with UpLift; feature a user quote, a pic of a young woman/old woman (maybe try both? Or in separate groups? Or campaigns? One to start?) Consider trying the same with a video; or static text with pics of diverse people cylcing through. Try running it on Instagram. -- IN PROGRESS -- **Results: Cost-per-onboard-end is higher, but cost-per-signup is lower; so these may actually be a better avenue.**
-	* **Try the same thing, but with a FB or IG Feed ad (text as text, pic of person - same pic)**
+
+* Try an ad "telling a story" about someone who reduced their depression with UpLift; feature a user quote, a pic of a young woman/old woman (maybe try both? Or in separate groups? Or campaigns? One to start?) Consider trying the same with a carousel; or static text with pics of diverse people cylcing through. Try running it on Instagram. 
 * Consider trying to reduce audience size even further (to get frequency - this is Ashley's rec, that if it's around 1, your audience is too big.)
-* Try busting out most successful ads into own campaigns
+* Try busting out most successful ads into own campaigns --(Why, again? Maybe check on Search Focused.pdf)
 
+* Try Audience Network-only campaign, see how it does.
 
-		* Try Audience Network-only campaign, see how it does.
-		* Try targeting signed-up, while we're still on web. - IN PROGRESS
-
-		* Consider setting the target of the retargeting-purchases campaign as pageviews. 
+* Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
 
 # Google
@@ -63,6 +61,7 @@
 * See below.
 * Increased target CPA late Jul 23rd. (May only have taken effect 26)
 - **->** Seems to have had positive effect; spend increased, with only a small increase in CPA.
+  **->** On Sept 18th, switched to monthly budget and increased by $100/month.
 
 ## To check on: 
 
@@ -75,7 +74,7 @@
 
 
 **Get out of depression**:
-* (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this. If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
+* (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
 **Depression Help**: 
  * Added second ad. 
  * See neg. below
@@ -87,6 +86,9 @@
 **CBT BMM: All groups**
 * Added explicit price ad. 
 * Consider turning off responsive search ad on `CBT` group. Left on for now, as it's increasing spend for the account, I think...but it's costing significantly more. 
+**How to get out of depression**
+* Created, Sept. 19th. Check on gen performance, ad variants. If doing well, create a 'coping' campaign, provided it's still the top search term in gen depression.
+
 
 * Switched to monthly budgeting for main campaign, 9/18. Check out. 
 * Increased budget from 1620 to 1520, Sept. 18. 
@@ -102,7 +104,7 @@
 	* Expand on this - try deep-linking at some point; ask Danielle how possible it is. 
 * `Depression and anxiety` campaign. 
 * `How to`...`depression naturally` campaign. (Check out `Beat depression` for example search terms.)
-					
+
 
 
 
