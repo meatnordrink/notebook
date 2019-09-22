@@ -32,6 +32,10 @@
 * (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
     * Seem to be doing very well (Sept. 19th) - try on other campaigns when results of new pics in. 
 
+* Test IG ads targeted solely at men (perhaps in a certain region, to go with regional campaign; and exclude from other campaigns.)
+
+* Look through; if ads consistently run badly on weekends, turn off then. 
+
 ### Next
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
