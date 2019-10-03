@@ -18,9 +18,17 @@
  * If these don't spend, consider forcing spend by running as an a/b.
 * New Sept creative for onboard-end, sign-up. Experiment calls to action, shift evidence (see below) or free text to forefront.
  * Whatever does well from this or IG Stories, try on retargeting groups. 
+* Put all retargeting in one campaign; added a group retargeting for pageviews.
+--pageviews failed to spend; created a new campaign with a custom conversion for website loads.  
+* **CHECK** Turned off old ad group in signed-up campaign; check to see that spend is still good. If average CPA goes near $2, turn it back on. 
 
 
 ### To check/Do
+* natural depression campaign
+
+* For retargeting: Think on, come up with some ideas for best content to serve to retargeting audiences. Run a/b's, perhaps. 
+
+* Think on/discuss best way of adding new creative. Keep budget optimization? Split budgets? 
 
 * REST OF ASHLEYS REC'S: Carousel, regional (also, try to get Google to whitelist us for audiences.)
 
@@ -31,7 +39,7 @@
 
 * (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
     * Seem to be doing very well (Sept. 19th) - try on other campaigns when results of new pics in. 
-
+    --In progress
 * Test IG ads targeted solely at men (perhaps in a certain region, to go with regional campaign; and exclude from other campaigns.)
 
 * Look through; if ads consistently run badly on weekends, turn off then. 
@@ -51,11 +59,24 @@
 
 * Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
+# RETARGETING CAMPAIGNS (FB Only)
+## In Progress
+
+## To-do: 
+* Launch retarget campaign for IG
+* Check analytics for sign-ups, purchases for 'clicked' campaign once `utm_source` parameters are passing through sign-up. 
+* "" for 'bought' campaign; currently very little visibility past landing page here, as most users will skip the onboard entirely. 
+
+## Findings
+* For the "clicked" audiences, where the metrics work well, looks like the Google and FB #'s match up perfectly. 
+
+
 
 # Google
 
 ## Tested
 * Responsive ads - not great so far. Not horrible, but worse than expanded text. Tried in Depression BMM;Depression General, and Mood Journal EM & BMM;Mood Tracker. In the latter, increased spend, but at very high CPR.
+    - but, seem to be working in CBT campaigns??
 ### Keywords Tested: 
 * Free Mood Tracking (No spend as of Aug 2019)
 * (Neg) `+CBT +Self +Online` - spent nothing.
@@ -75,6 +96,7 @@
    - Explicit cost ad seems to be doing well. Copied to: 
      * `depression EMM: depression general`
 	 * `CBT BMM: all groups` (customized)
+* Added Responsive ads to CBT EMM campaign, both ad groups. 
 
 
 **Get out of depression**:
@@ -99,6 +121,16 @@
 * Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
 
 ## To try:
+
+* Look at Google Guy's advice, think through application
+
+* Check out Google Trends, apply
+
+* natural depression campaign
+
+* depression therapy campaign
+
+* break out cognitive behavioral therapy from cbt?
 
 * Different bid strategies (Target ROAS?)
 * Break out `mdd`, `major depressive disorder` from Depression BMM and EM.
