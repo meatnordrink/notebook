@@ -121,6 +121,7 @@
 * Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
 
 ## To try:
+* Fr Eddie/Trends - "Depression test"
 
 * Look at trying east-us specific campaign? Locationally specific? 
 * Consider - are BMM campaigns for keywords broken out from BMM really worthwhile? (They don't seem to spend...but if the cpr is okay, then that's fine.)
