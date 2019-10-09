@@ -21,22 +21,22 @@
 
 ### Testing
 
-* New IG Stories ad group, Sept. 19th. If does okay, experiment with different call-to-actions for best ads. 
- * If these don't spend, consider forcing spend by running as an a/b.
-   - New sparkler group bombed. Re-introducing older woman-pic ads that never caught on as a separate ad group, on 9/27. **Check**
-   - Added new ad group, non-full ads. (Did re-use the same woman-looking-down creative...overlap? But IG Stories users are not necessarily the same as FB feed...)
-   - Also changed audience from signed-up to onboard-end.
-* New Sept creative for onboard-end, sign-up. Experiment calls to action, shift evidence (see below) or free text to forefront.
-  * **Check**
-  * Added Evidence creative group as new ad group. **Check** Not sure this was the best way to add this, as a new group as opposed to new ads in existing campaigns. 
- * Whatever does well from this or IG Stories, try on retargeting groups. 
-* Put all retargeting in one campaign; added a group retargeting for pageviews.
---pageviews failed to spend; created a new campaign with a custom conversion for website loads.  
-* **CHECK** Turned off old ad group in signed-up campaign; check to see that spend is still good. If average CPA goes near $2, turn it back on. 
+* *IG stories:*
+  * Switching from `signed-up` audience to `onboard-end` seems to have been good; costs have gone down to around $2, Oct 1-9th. 
+  * Other two ad groups not spending; set a limit of $10 (of $15) on main ad group; check and see 1) if other ads spend a bit now, and 2) what their CPA is. 
 
+* *Retargeting:* 
+ * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. **check**, remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
+ * `clicked` : shifted most of budget to new creative. **Check**, and adjust accordingly.
+
+* *Onboard-End:* 
+ * Increased spend to $50 on Oct. 4th, did well. Leave for a minute, then increase next week, once effects from new onboard and coach paywall removal are felt; also maybe wait until/if weekly revenue/metrics look better. If they don't, consider reducing spend.  **do**
+ * On both onboard-end and signed-up, `single-flower` ads in the evidence-focus campaigns seem to have remained on ferns. I changed it Oct 9th; presumably it won't hurt anything (spend was low for both), but **check**.
+
+* *Signed-up:*
+ * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. **do**
 
 ### To check/Do
-* natural depression campaign
 
 * For retargeting: Think on, come up with some ideas for best content to serve to retargeting audiences. Run a/b's, perhaps. 
 
@@ -45,19 +45,15 @@
 * REST OF ASHLEYS REC'S: Carousel, regional (also, try to get Google to whitelist us for audiences.)
 
 * See if woman w phone in onboard end continues to heavily outperform other creative. if so....how to respond? Ask Ashley. (Should the algorithm just automatically adjust for that? If it isn't, does it mean it's already getting all the low-cost conversions it can with it? See Q above.)
-* If sign-up audience ultimately seems better than onboard-end, aim Instagram at that. (Consider keeping onboard-end, but with a lower bid cap.)
 
 * Next - try putting IG stories creative in FB feed ads;they had low costs there. (cross competition; same audience..?) (maybe just the images...?)
-* If costs remain high on two main campaigns, reduce target bids. 
 
-* (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
-    * Seem to be doing very well (Sept. 19th) - try on other campaigns when results of new pics in. 
-    --In progress
 * Test IG ads targeted solely at men (perhaps in a certain region, to go with regional campaign; and exclude from other campaigns.)
 
 * Look through; if ads consistently run badly on weekends, turn off then. 
 
 ### Next
+* Launch retarget for IG
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
 * Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.) -- IN PROGRESS
@@ -72,17 +68,6 @@
 
 * Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
-# RETARGETING CAMPAIGNS (FB Only)
-## In Progress
-
-## To-do: 
-* Launch retarget campaign for IG
-* Check analytics for sign-ups, purchases for 'clicked' campaign once `utm_source` parameters are passing through sign-up. 
-* "" for 'bought' campaign; currently very little visibility past landing page here, as most users will skip the onboard entirely. 
-
-## Findings
-* For the "clicked" audiences, where the metrics work well, looks like the Google and FB #'s match up perfectly. 
-
 
 
 # Google
@@ -94,10 +79,12 @@
 * Free Mood Tracking (No spend as of Aug 2019)
 * (Neg) `+CBT +Self +Online` - spent nothing.
 
+
+### General musings: 
+* Responsive ads seem to be useful for campaigns that aren't spending, but to perform poorly (cost more) on campaigns that are already doing alright. 
+
 ## In Progress: 
 
-* See below.
-*Increased target spend modestly for October. If CPA holds steady for the first week of Oct (presuming cost increases), continue to increase $$ (for one or both campaigns.) 
 
 **NEXT** - Stop campaigns that aren't spending much, but have high CPA?
                - **Try creating Responsive ads for them first, monitor**
@@ -123,30 +110,44 @@
        - Not doing as well in `depression EMM: dep gen`, but okay. Not much in `CBT BMM`, but a little; seems worthwhile, as any uptick in that campaign is hard to come by. 
 
 
+### Depression General Campaign
 
 **Get out of depression**:
 * (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
+* BMM: 
+  * Based on `depression/program` beating `get_out_of/depression` with "How to get out of depression" ad, duplicated next-best peforming ad, "You can get out of depression" with `/depression/program`. (Oct 9) *check* - if `/depression/program` wins, duplicate for all ads, delete `get_out_of` ads, and a/b on other groups. 
+* EMM: 
+  * Here, `depression/program` seems to be peforming very well, but `get_out_of` are not performing badly, so I left them in. A mix of both might be wise. 
+
 **Depression Help**: 
- * Added second ad. 
- * See neg. below
- * Try breaking out a campaign for `how to help {x} with depression`
+  * BMM: 
+    * Try breaking out a campaign for `how to help {x} with depression`
+  * EMM: 
+    * Testimonial ad did well in BMM, added to EM (Oct 9). *check*
+    * *Next* Add explicit price ad (to BMM as well).
+
 **Depression self-help**: 
-* Added `self-help` negative keyword to `depression help`; see if performance improves. (9/18)
+* EM: 
+  * Added `self-help` negative keyword to `depression help BMM`; see if performance improves. (9/18)
+    * Didn't help much; maybe a little. Still not really spending. But, hadn't added to `depression help EM`; did. (Oct 9) *check*
+  * Added two new variants (testimonial, /depression/program), Oct. 9. *check*
+
+*(Stopped here on Oct 9th)*
 **Fight Depression**
-* Lots of ad variants. Check out. 
+* Lots of ad variants. Check out.
+   
 **CBT BMM: All groups**
 * Added explicit price ad. 
 * Consider turning off responsive search ad on `CBT` group. Left on for now, as it's increasing spend for the account, I think...but it's costing significantly more. 
-**How to get out of depression**
-* Created, Sept. 19th. Check on gen performance, ad variants. If doing well, create a 'coping' campaign, provided it's still the top search term in gen depression.
 
 
-* Switched to monthly budgeting for main campaign, 9/18. Check out. 
-* Increased budget from 1620 to 1520, Sept. 18. 
+
 * Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
 
+* `Depression Test`/`Depression Therapy` - new campaigns requested by Eddie. `Test` spending low with high cost; `therapy` currently not spending. If they don't improve, kill. If they start doing better, create BMM campaigns to match. *check*
+
 ## To try:
-* Fr Eddie/Trends - "Depression test"
+* Create "coping" campaign, if still top un-broken out keyword. 
 
 * Look at Google Guy's advice, think through application
 
@@ -159,8 +160,6 @@
 * break out cognitive behavioral therapy from cbt?
 
 * Look at trying east-us specific campaign? Locationally specific? 
-* Consider - are BMM campaigns for keywords broken out from BMM really worthwhile? (They don't seem to spend...but if the cpr is okay, then that's fine.)
-* Different bid strategies (Target ROAS?)
 * Break out `mdd`, `major depressive disorder` from Depression BMM and EM.
 * "" `getting depression`
 * Try customizing extensions to match ads for better relevance scores. 
@@ -173,21 +172,6 @@
 
 
 # Q's for Ashley
-
-* Since Aug 28th 2019, started disabling campaigns that were spending little but doing nothing. Cool?
-* Different bid strategies?
-
-
-
-
-
-
-
-
-		* Figure out why the app install campaign isn't performing. Says no download conversion action is set up; figure out how to do this. (Ask Ashley.)
-			* Set up app conversion event for Google Play installs, once we're actually listed on the Play store. 
-
-		* Create anxiety campaign
 		
 
 ## Some general shit:
