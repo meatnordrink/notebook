@@ -53,6 +53,7 @@
 * Look through; if ads consistently run badly on weekends, turn off then. 
 
 ### Next
+* Launch retarget for IG
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
 * Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.) -- IN PROGRESS
@@ -67,17 +68,6 @@
 
 * Consider setting the target of the retargeting-purchases campaign as pageviews. 
 
-# RETARGETING CAMPAIGNS (FB Only)
-## In Progress
-
-## To-do: 
-* Launch retarget campaign for IG
-* Check analytics for sign-ups, purchases for 'clicked' campaign once `utm_source` parameters are passing through sign-up. 
-* "" for 'bought' campaign; currently very little visibility past landing page here, as most users will skip the onboard entirely. 
-
-## Findings
-* For the "clicked" audiences, where the metrics work well, looks like the Google and FB #'s match up perfectly. 
-
 
 
 # Google
@@ -89,10 +79,12 @@
 * Free Mood Tracking (No spend as of Aug 2019)
 * (Neg) `+CBT +Self +Online` - spent nothing.
 
+
+### General musings: 
+* Responsive ads seem to be useful for campaigns that aren't spending, but to perform poorly (cost more) on campaigns that are already doing alright. 
+
 ## In Progress: 
 
-* See below.
-*Increased target spend modestly for October. If CPA holds steady for the first week of Oct (presuming cost increases), continue to increase $$ (for one or both campaigns.) 
 
 **NEXT** - Stop campaigns that aren't spending much, but have high CPA?
                - **Try creating Responsive ads for them first, monitor**
@@ -118,30 +110,44 @@
        - Not doing as well in `depression EMM: dep gen`, but okay. Not much in `CBT BMM`, but a little; seems worthwhile, as any uptick in that campaign is hard to come by. 
 
 
+### Depression General Campaign
 
 **Get out of depression**:
 * (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
+* BMM: 
+  * Based on `depression/program` beating `get_out_of/depression` with "How to get out of depression" ad, duplicated next-best peforming ad, "You can get out of depression" with `/depression/program`. (Oct 9) *check* - if `/depression/program` wins, duplicate for all ads, delete `get_out_of` ads, and a/b on other groups. 
+* EMM: 
+  * Here, `depression/program` seems to be peforming very well, but `get_out_of` are not performing badly, so I left them in. A mix of both might be wise. 
+
 **Depression Help**: 
- * Added second ad. 
- * See neg. below
- * Try breaking out a campaign for `how to help {x} with depression`
+  * BMM: 
+    * Try breaking out a campaign for `how to help {x} with depression`
+  * EMM: 
+    * Testimonial ad did well in BMM, added to EM (Oct 9). *check*
+    * *Next* Add explicit price ad (to BMM as well).
+
 **Depression self-help**: 
-* Added `self-help` negative keyword to `depression help`; see if performance improves. (9/18)
+* EM: 
+  * Added `self-help` negative keyword to `depression help BMM`; see if performance improves. (9/18)
+    * Didn't help much; maybe a little. Still not really spending. But, hadn't added to `depression help EM`; did. (Oct 9) *check*
+  * Added two new variants (testimonial, /depression/program), Oct. 9. *check*
+
+*(Stopped here on Oct 9th)*
 **Fight Depression**
-* Lots of ad variants. Check out. 
+* Lots of ad variants. Check out.
+   
 **CBT BMM: All groups**
 * Added explicit price ad. 
 * Consider turning off responsive search ad on `CBT` group. Left on for now, as it's increasing spend for the account, I think...but it's costing significantly more. 
-**How to get out of depression**
-* Created, Sept. 19th. Check on gen performance, ad variants. If doing well, create a 'coping' campaign, provided it's still the top search term in gen depression.
 
 
-* Switched to monthly budgeting for main campaign, 9/18. Check out. 
-* Increased budget from 1620 to 1520, Sept. 18. 
+
 * Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
 
+* `Depression Test`/`Depression Therapy` - new campaigns requested by Eddie. `Test` spending low with high cost; `therapy` currently not spending. If they don't improve, kill. If they start doing better, create BMM campaigns to match. *check*
+
 ## To try:
-* Fr Eddie/Trends - "Depression test"
+* Create "coping" campaign, if still top un-broken out keyword. 
 
 * Look at Google Guy's advice, think through application
 
@@ -154,8 +160,6 @@
 * break out cognitive behavioral therapy from cbt?
 
 * Look at trying east-us specific campaign? Locationally specific? 
-* Consider - are BMM campaigns for keywords broken out from BMM really worthwhile? (They don't seem to spend...but if the cpr is okay, then that's fine.)
-* Different bid strategies (Target ROAS?)
 * Break out `mdd`, `major depressive disorder` from Depression BMM and EM.
 * "" `getting depression`
 * Try customizing extensions to match ads for better relevance scores. 
@@ -168,21 +172,6 @@
 
 
 # Q's for Ashley
-
-* Since Aug 28th 2019, started disabling campaigns that were spending little but doing nothing. Cool?
-* Different bid strategies?
-
-
-
-
-
-
-
-
-		* Figure out why the app install campaign isn't performing. Says no download conversion action is set up; figure out how to do this. (Ask Ashley.)
-			* Set up app conversion event for Google Play installs, once we're actually listed on the Play store. 
-
-		* Create anxiety campaign
 		
 
 ## Some general shit:
