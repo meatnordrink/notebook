@@ -21,22 +21,22 @@
 
 ### Testing
 
-* New IG Stories ad group, Sept. 19th. If does okay, experiment with different call-to-actions for best ads. 
- * If these don't spend, consider forcing spend by running as an a/b.
-   - New sparkler group bombed. Re-introducing older woman-pic ads that never caught on as a separate ad group, on 9/27. **Check**
-   - Added new ad group, non-full ads. (Did re-use the same woman-looking-down creative...overlap? But IG Stories users are not necessarily the same as FB feed...)
-   - Also changed audience from signed-up to onboard-end.
-* New Sept creative for onboard-end, sign-up. Experiment calls to action, shift evidence (see below) or free text to forefront.
-  * **Check**
-  * Added Evidence creative group as new ad group. **Check** Not sure this was the best way to add this, as a new group as opposed to new ads in existing campaigns. 
- * Whatever does well from this or IG Stories, try on retargeting groups. 
-* Put all retargeting in one campaign; added a group retargeting for pageviews.
---pageviews failed to spend; created a new campaign with a custom conversion for website loads.  
-* **CHECK** Turned off old ad group in signed-up campaign; check to see that spend is still good. If average CPA goes near $2, turn it back on. 
+* *IG stories:*
+  * Switching from `signed-up` audience to `onboard-end` seems to have been good; costs have gone down to around $2, Oct 1-9th. 
+  * Other two ad groups not spending; set a limit of $10 (of $15) on main ad group; check and see 1) if other ads spend a bit now, and 2) what their CPA is. 
 
+* *Retargeting:* 
+ * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. **check**, remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
+ * `clicked` : shifted most of budget to new creative. **Check**, and adjust accordingly.
+
+* *Onboard-End:* 
+ * Increased spend to $50 on Oct. 4th, did well. Leave for a minute, then increase next week, once effects from new onboard and coach paywall removal are felt; also maybe wait until/if weekly revenue/metrics look better. If they don't, consider reducing spend.  **do**
+ * On both onboard-end and signed-up, `single-flower` ads in the evidence-focus campaigns seem to have remained on ferns. I changed it Oct 9th; presumably it won't hurt anything (spend was low for both), but **check**.
+
+* *Signed-up:*
+ * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. **do**
 
 ### To check/Do
-* natural depression campaign
 
 * For retargeting: Think on, come up with some ideas for best content to serve to retargeting audiences. Run a/b's, perhaps. 
 
@@ -45,14 +45,9 @@
 * REST OF ASHLEYS REC'S: Carousel, regional (also, try to get Google to whitelist us for audiences.)
 
 * See if woman w phone in onboard end continues to heavily outperform other creative. if so....how to respond? Ask Ashley. (Should the algorithm just automatically adjust for that? If it isn't, does it mean it's already getting all the low-cost conversions it can with it? See Q above.)
-* If sign-up audience ultimately seems better than onboard-end, aim Instagram at that. (Consider keeping onboard-end, but with a lower bid cap.)
 
 * Next - try putting IG stories creative in FB feed ads;they had low costs there. (cross competition; same audience..?) (maybe just the images...?)
-* If costs remain high on two main campaigns, reduce target bids. 
 
-* (Sept. 10) Added "evidence-focus" ads to retargeting campaigns. **Check**
-    * Seem to be doing very well (Sept. 19th) - try on other campaigns when results of new pics in. 
-    --In progress
 * Test IG ads targeted solely at men (perhaps in a certain region, to go with regional campaign; and exclude from other campaigns.)
 
 * Look through; if ads consistently run badly on weekends, turn off then. 
