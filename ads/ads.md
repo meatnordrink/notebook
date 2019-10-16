@@ -41,6 +41,8 @@
 
 ### To check/Do
 
+* Think on maybe an Oceania campaign? Or, check what currencies we're getting paid in, and try a campaign targeting whatever's behind USD?
+
 * For retargeting: Think on, come up with some ideas for best content to serve to retargeting audiences. Run a/b's, perhaps. 
 
 * Think on/discuss best way of adding new creative. Keep budget optimization? Split budgets? 
@@ -135,13 +137,39 @@
     * Didn't help much; maybe a little. Still not really spending. But, hadn't added to `depression help EM`; did. (Oct 9) *check*
   * Added two new variants (testimonial, /depression/program), Oct. 9. *check*
 
-*(Stopped here on Oct 9th)*
 **Fight Depression**
-* Lots of ad variants. Check out.
+* BMM: 
+  * Spending very little. Doesn't seem to be doing much harm; look at it long term, if it's overall spending a lot per conversion, shut off low-performing ads. (Start looking from Sept. 19th).
+* EM:
+  * Added testimonial, /depression/program, and explicit price ad, Oct 10. *check*
    
-**CBT BMM: All groups**
-* Added explicit price ad. 
-* Consider turning off responsive search ad on `CBT` group. Left on for now, as it's increasing spend for the account, I think...but it's costing significantly more. 
+**CBT**
+* BMM:
+  * Spending up to about $4/day by Oct 1-9; trying to increase. 
+  * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10) *check*, a/b, go with winner unless both performing well. 
+  * Created `CBT self help` campaign; many ad variants. Oct 10. *check*
+  * Added testimonial, /depression/program ad variants to some of the other campaigns. Oct 10 *check* 
+  * If `app` group continues to cost a lot, consider disabling. Excluded some negative keywords Oct 10, might help. 
+* EMM: 
+  * Spending at ~.50/day, Sept. 19-Oct 9. Trying to increase. 
+  * Ditto `CBT self-help` *check*
+  * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10. *check*
+  * Added all the ads to `CBT` group, Oct 10. *check* 
+**UpLift**
+* BMM
+ * Good CTR, but low conversion. Users looking for sign-ups? Trying to add better ads, but don't know if that's a good way to address it. *check*
+ * Added testimonial, explicit price ads, and different url's. Oct 10. *check*
+* EMM
+ * Added `UpLift for Depression` campaign; BMM too. Oct 10 *check* 
+ * Added new ad variants; *check*
+
+**Mood Journal**
+* BMM: 
+  * Responsive search ad the only one that's spending. Oct 10. 
+  * Added a couple titles to responsive ad; added testimonial, /depression/program variants. Oct. 10. *Check*
+* If anything's succesful here, ad to EM. 
+
+**Others** - Not yet optimized really. Go through. 
 
 
 
@@ -150,15 +178,19 @@
 * `Depression Test`/`Depression Therapy` - new campaigns requested by Eddie. `Test` spending low with high cost; `therapy` currently not spending. If they don't improve, kill. If they start doing better, create BMM campaigns to match. *check*
 
 ## To try:
+*Next*
+* add `android uplift app` and `ios uplift app` to relevant campaign. 
 * Create "coping" campaign, if still top un-broken out keyword. 
+* Try `android depression app`, `ios depression app` campaigns, or groups within a campaign
+* "How to X depression naturally" (or just `depression naturally`). 
+* Look at testing out other extensions; potentially customizing to match ads.
 
+* Consider editing SEO for organic search to include best copy from ads. 
+
+*More*
 * Look at Google Guy's advice, think through application
 
 * Check out Google Trends, apply
-
-* natural depression campaign
-
-* depression therapy campaign
 
 * break out cognitive behavioral therapy from cbt?
 
