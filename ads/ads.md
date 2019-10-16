@@ -24,10 +24,13 @@
 * *IG stories:*
   * Switching from `signed-up` audience to `onboard-end` seems to have been good; costs have gone down to around $2, Oct 1-9th. 
   * Other two ad groups not spending; set a limit of $10 (of $15) on main ad group; check and see 1) if other ads spend a bit now, and 2) what their CPA is. 
+    * Didn't work; still didn't really spend. `Old Sept pic` campaign spent a little, but not much and high CPA. Response: Added `woman looking down` ad from `evidence` group to `IG Stories` group (Oct 16th). See if that spends; add a full-image version. **do**, **check**
 
 * *Retargeting:* 
- * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. **check**, remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
- * `clicked` : shifted most of budget to new creative. **Check**, and adjust accordingly.
+ * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
+    * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th. **check**
+ * `clicked` : shifted most of budget to new creative.
+   * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. **check**  
 
 * *Onboard-End:* 
  * Increased spend to $50 on Oct. 4th, did well. Leave for a minute, then increase next week, once effects from new onboard and coach paywall removal are felt; also maybe wait until/if weekly revenue/metrics look better. If they don't, consider reducing spend.  **do**
