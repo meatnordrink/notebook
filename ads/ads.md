@@ -28,13 +28,12 @@
 
 * *Retargeting:* 
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
-    * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th. **check**
+    * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now. **check**
  * `clicked` : shifted most of budget to new creative.
    * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. **check**  
 
 * *Onboard-End:* 
  * Increased spend to $50 on Oct. 4th, did well. Leave for a minute, then increase next week, once effects from new onboard and coach paywall removal are felt; also maybe wait until/if weekly revenue/metrics look better. If they don't, consider reducing spend.  **do**
- * On both onboard-end and signed-up, `single-flower` ads in the evidence-focus campaigns seem to have remained on ferns. I changed it Oct 9th; presumably it won't hurt anything (spend was low for both), but **check**.
 
 * *Signed-up:*
  * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. **do**
