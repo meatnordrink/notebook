@@ -24,19 +24,47 @@
 * *IG stories:*
   * Switching from `signed-up` audience to `onboard-end` seems to have been good; costs have gone down to around $2, Oct 1-9th. 
   * Other two ad groups not spending; set a limit of $10 (of $15) on main ad group; check and see 1) if other ads spend a bit now, and 2) what their CPA is. 
-    * Didn't work; still didn't really spend. `Old Sept pic` campaign spent a little, but not much and high CPA. Response: Added `woman looking down` ad from `evidence` group to `IG Stories` group (Oct 16th). See if that spends; add a full-image version. **do**, **check**
+    * Didn't work; still didn't really spend. `Old Sept pic` campaign spent a little, but not much and high CPA. Response: Added `woman looking down` ad from `evidence` group to `IG Stories` group (Oct 16th). See if that spends; add a full-image version. 
+       * (Oct 24) Didn't. Stopped. If other campaigns don't spend, force an a/b test (and re-try these).
+       * (Oct 24) Also, turned off campaign budget optimization, so that I can manually allocate amongst ad groups. (Might be worth re-trying some of those old ad groups under this system.)
+  * (Oct 24) Created new IG stories creative. **check** variations. **do** -> select most successful, and try variations in: 
+      * background color
+      * text creative
+      * font style/size
+      Once this is done, try with similar but different photos in future months.
+
 
 * *Retargeting:* 
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
-    * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now. **check**
+    * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now.
+        * Sucking hard, mostly; fern ad doing alright. But haven't spent much. 
+            * Tried new tack; tried optimizing for link clicks. CPC and CPLC are actually good, the best of any; my thought is that it may be that, because people have already signed up, somehow the conversions aren't firing...maybe the go to the "already signed up?" link? That would actually make sense. 
+               * Depending on how this goes, **check**
+                   * Try another campaign aiming at this audience with a conversion event firing on the "already signed up?" link on the page. 
+
  * `clicked` : shifted most of budget to new creative.
-   * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. **check**  
+   * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. (Oct 16)
+      * Oct 24 - One fern left in old campaign doing great; increased budget $2 to $3. Continue to increase slowly. **check**
+      * Oct 24 - Created new ad group with explicit cost. If it doesn't bomb, a/b (actual split test) with a different headline. **check**
+
 
 * *Onboard-End:* 
- * Increased spend to $50 on Oct. 4th, did well. Leave for a minute, then increase next week, once effects from new onboard and coach paywall removal are felt; also maybe wait until/if weekly revenue/metrics look better. If they don't, consider reducing spend.  **do**
+ * Added an explicit-cost + evidence group, Oct 24th. **check** If it does well, reproduce for signed-up audience.
+ * After see the results from adding explicit-cost ad, increase budget slightly.**do** (Oct 24)
 
 * *Signed-up:*
- * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. **do**
+ * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. 
+    * Evidence creative seems to be kicking ass; but campaign budget optimization is on, so it could just be that it's getting aimed at all the cheap conversions. Increased budget a touch, as planned; if non-evidence creative continues to have higher CPA, turn off and see if other costs increase. **check** **do** (Oct 24)
+
+* *Regionally Targeted*
+  * Copy ideas: 
+      - "There's more than one way to prepare for winter" "This isn't the only way to prepare for winter"... something like that. Image of some kind of winter prep. 
+      - "It's important to prepare for winter." Squirrel image. "Take care of your mind this winter with UpLift, the first depression app of its kind."
+      - Try positive first, then try negative. 
+      - Positive: "Prepare yourself to make the most of this winter."
+      - Negative: "Don't let seasonal depression prevent you from making the most of winter. 
+      - Hybrid: Negative copy, positive image (winter fun in NY.)
+      - See if I can target rural vs city; adjust images appropriately. (Looks like I can; perhaps, for first campaign, try targeting city; then try rural.)
 
 ### To check/Do
 
@@ -58,6 +86,7 @@
 
 ### Next
 * Launch retarget for IG
+* Try targeting life events
 * A/B creative - IN PROGRESS; could do more.
 * Test different call to actions. -- IN PROGRESS
 * Try creating another (better) instagram-specific ad; make it's own campaign. (maybe promote app download, if we're doing it then.) -- IN PROGRESS
@@ -98,21 +127,10 @@
          - Go to `Dep BMM` campaign, look at any other campaigns with matches; if "how" etc's, add how to exact match, exclude from broad. 
          - Maybe take a break from breaking out campaigns for a bit, check other things; entirely new campaigns, perhaps. Call to try to get whitelisted...
 
-## To check on: 
+## Budget: 
 
-* See above. 
-
-* Added "how to not be depressed" campaigns; **check on**
-
-* Check how exact-match group's spend look after Oct 1st; increase if it's spending close to $20. 
-
-* (Sep 9) Added explicit price ad variant to `depression BMM; depression general`. ***Check***
-   - Explicit cost ad seems to be doing well. Copied to: 
-     * `depression EMM: depression general`
-	 * `CBT BMM: all groups` (customized)
-* Added Responsive ads to CBT EMM campaign, both ad groups. 
-       - Not doing as well in `depression EMM: dep gen`, but okay. Not much in `CBT BMM`, but a little; seems worthwhile, as any uptick in that campaign is hard to come by. 
-
+* Spend seems to be pretty solid under $2; added $100 to `Dep Gen BM`, $50 to `" " EM`. Hold steady for the rest of the month; expect a bit of a rise at the end of the month, then dip as the next one starts. 
+* *If the increase at the end of the month is severe, lower the ad budget at the end of the month to constrain spend*
 
 ### Depression General Campaign
 
@@ -122,42 +140,55 @@
 **Get out of depression**:
 * (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
 * BMM: 
-  * Based on `depression/program` beating `get_out_of/depression` with "How to get out of depression" ad, duplicated next-best peforming ad, "You can get out of depression" with `/depression/program`. (Oct 9) *check* - if `/depression/program` wins, duplicate for all ads, delete `get_out_of` ads, and a/b on other groups. 
+  * `/depression/program` ads were all performing better than `get_out_of/depression` ads, so I disabled all but one, which was spending low, but good CPA. 
 * EMM: 
-  * Here, `depression/program` seems to be peforming very well, but `get_out_of` are not performing badly, so I left them in. A mix of both might be wise. 
+  * Same as above, but disabled all. CPA was high for all but the top ad; should I shut down the higher-performing ads, or will they just spend less if I do? (Good Q for Ashley.) 
+  * EMM are coming in with a higher CPA than BMM; why? Check what search terms BMM is getting, make sure ads are the same. (Perhaps most likely: Could be just that EMM has more conversions due to acquirable higher bids; had 79 conversions vs 39.) (Oct 17th) 
+  * *Next* - Add explicit price variant to both EM and BMM
 
 **Depression Help**: 
   * BMM: 
     * Try breaking out a campaign for `how to help {x} with depression`
   * EMM: 
     * Testimonial ad did well in BMM, added to EM (Oct 9). *check*
-    * *Next* Add explicit price ad (to BMM as well).
+      * Testimonial add did well in both BMM and EM; added explicit price ad (to BMM as well), Oct. 17th. **check**
 
 **Depression self-help**: 
 * EM: 
-  * Added `self-help` negative keyword to `depression help BMM`; see if performance improves. (9/18)
-    * Didn't help much; maybe a little. Still not really spending. But, hadn't added to `depression help EM`; did. (Oct 9) *check*
-  * Added two new variants (testimonial, /depression/program), Oct. 9. *check*
+  * Still not spending; nothing seems to have helped yet. 
+  * Added new testimonial, another `/depression/program` variant. (Oct. 17th) *check*
+  * If still not spending, look again at `depression general`, `depression help` BMM, see if one of them is catching it.
 
 **Fight Depression**
 * BMM: 
   * Spending very little. Doesn't seem to be doing much harm; look at it long term, if it's overall spending a lot per conversion, shut off low-performing ads. (Start looking from Sept. 19th).
+    * Still spending jack shit (Oct. 17th); *examine* with same methods as `self-help`.
 * EM:
-  * Added testimonial, /depression/program, and explicit price ad, Oct 10. *check*
+  * Ditto above. 
    
 **CBT**
+General: Wondering if this might be where it's gonna be. ? Perhaps better to focus on other avenues, and leave this as a low-spending option, unless I want to try display network stuff, or get custom audiences. (Oct 17th.)
 * BMM:
   * Spending up to about $4/day by Oct 1-9; trying to increase. 
   * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10) *check*, a/b, go with winner unless both performing well. 
+      * W/ testimonial performed well; shut off other. (Oct. 17th)
   * Created `CBT self help` campaign; many ad variants. Oct 10. *check*
+      * Not spending.
   * Added testimonial, /depression/program ad variants to some of the other campaigns. Oct 10 *check* 
+      * Seem to have helped a little with increasing spend; cpa consistent. Not drastic, but distinct. (Oct. 17)
   * If `app` group continues to cost a lot, consider disabling. Excluded some negative keywords Oct 10, might help. 
+      * Seems to be doing better now; spending little, but good CPA.
 * EMM: 
   * Spending at ~.50/day, Sept. 19-Oct 9. Trying to increase. 
+    * Up to $2.00/day, yay! (Oct. 17)
   * Ditto `CBT self-help` *check*
+    * Spent a little, good CPA. (Oct 17)
   * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10. *check*
+    * All seem good; added testimonial to the responsive ad, as it's done well elsewhere. (Oct. 17) *check*
   * Added all the ads to `CBT` group, Oct 10. *check* 
-**UpLift**
+    * Seem fine, though several not spending; added `/depression/program` variant.
+
+**UpLift** (Did not check Oct 17)
 * BMM
  * Good CTR, but low conversion. Users looking for sign-ups? Trying to add better ads, but don't know if that's a good way to address it. *check*
  * Added testimonial, explicit price ads, and different url's. Oct 10. *check*
@@ -169,6 +200,7 @@
 * BMM: 
   * Responsive search ad the only one that's spending. Oct 10. 
   * Added a couple titles to responsive ad; added testimonial, /depression/program variants. Oct. 10. *Check*
+      * Other ads spent a little; responsive ad still most successful. Added two new variants (testimonial, `depression/program`); choose one that performs the best. (Oct 17)
 * If anything's succesful here, ad to EM. 
 
 **Others** - Not yet optimized really. Go through. 
