@@ -116,6 +116,9 @@
 
 ### Depression General Campaign
 
+**Anxiety**
+* Launched Oct. 28. Check and optimize; see what search terms are coming up and refine.
+
 **Get out of depression**:
 * (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
 * BMM: 
