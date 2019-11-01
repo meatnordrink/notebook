@@ -12,6 +12,10 @@
 * Google Regional Targeting: Does this make any sense? No one searches "depression in New York", really. Seasonal Depression might be regionally specific; but won't searching be self-selecting? (Like, if someone searches it, I don't really care where they are; not many people in areas that don't have seasonal changes are going to do the search.) So I'm kinda' assuming this doesn't apply to us.
 * I'm using Target CPA on Google Ads, which supposedly uses "smart bidding." Will this take locations most likely to convert into account automatically, or is geo-targeting still necessary?
 
+
+## Broad Notes
+* Nov 1st, 2019: Turned down ads significantly, based on poor income #'s. If #'s improve, raise again *slowly.* Watch out for a/b's that may mess things up. 
+
 # FB
 
 ***Notes of the moment:*** Consider following Adexpresso's suggestion to start new campaigns using CBO at a smaller budget for 4-7 days to let the algorithm figure shit out before scaling. 
@@ -41,7 +45,7 @@
 
 
 * *Retargeting:* 
- * Try applying CBO to this whole campaign. 
+ * Try breaking out signed-up retargeting and applying CBO to this whole campaign. **do**
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
     * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now.
         * Sucking hard, mostly; fern ad doing alright. But haven't spent much. 
@@ -80,6 +84,8 @@
 
 * *Anxiety*
   * Started Oct 28. 
+  * Doing well. Once a/b numbers in, made sure funnel is doing well, increase budget in $5/increments. **Do**
+
 
 ### To check/Do
 
