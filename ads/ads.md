@@ -7,9 +7,14 @@
 ### FB:
 * What is the best strategy for introducing a new ad variation? In existing group, as own group? How about totally new creative? (Should I a/b, if I still can?)
 * I've been hesitant to turn off ads which are performing less well, but still okay, within a group, for fear that, when the currently more successful ad has to spend more of the budget, it's performance will decline as well; and as the algorithm may be adapting the ad for slightly different groups, it will actually result in reduced spend overall. Is this correct? What's the best way to respond to an ad that's performing particularly well within a FB ad set?  
+* RE: Regional targeting - the ideas is I'm supposed to exclude NY targeting from my other campaigns, yeah, so I'm not competing against myself? But is it a good idea to turn off advertising in a large market, with a campaign with lots of accumulated learning, in favor of a campaign with no learning, and with a very different pitch? (The changes are not small.)
 ### GA: 
+* Google Regional Targeting: Does this make any sense? No one searches "depression in New York", really. Seasonal Depression might be regionally specific; but won't searching be self-selecting? (Like, if someone searches it, I don't really care where they are; not many people in areas that don't have seasonal changes are going to do the search.) So I'm kinda' assuming this doesn't apply to us.
+* I'm using Target CPA on Google Ads, which supposedly uses "smart bidding." Will this take locations most likely to convert into account automatically, or is geo-targeting still necessary?
 
 # FB
+
+***Notes of the moment:*** Consider following Adexpresso's suggestion to start new campaigns using CBO at a smaller budget for 4-7 days to let the algorithm figure shit out before scaling. 
 
 ### Tested:
 * Broader (2-5%) lookalike (failed badly.)
@@ -27,6 +32,7 @@
     * Didn't work; still didn't really spend. `Old Sept pic` campaign spent a little, but not much and high CPA. Response: Added `woman looking down` ad from `evidence` group to `IG Stories` group (Oct 16th). See if that spends; add a full-image version. 
        * (Oct 24) Didn't. Stopped. If other campaigns don't spend, force an a/b test (and re-try these).
        * (Oct 24) Also, turned off campaign budget optimization, so that I can manually allocate amongst ad groups. (Might be worth re-trying some of those old ad groups under this system.)
+       * **Or** - if not spending, first try setting a budget minimum for the new campaign. **Do**
   * (Oct 24) Created new IG stories creative. **check** variations. **do** -> select most successful, and try variations in: 
       * background color
       * text creative
@@ -35,17 +41,21 @@
 
 
 * *Retargeting:* 
+ * Try applying CBO to this whole campaign. 
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
     * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now.
         * Sucking hard, mostly; fern ad doing alright. But haven't spent much. 
             * Tried new tack; tried optimizing for link clicks. CPC and CPLC are actually good, the best of any; my thought is that it may be that, because people have already signed up, somehow the conversions aren't firing...maybe the go to the "already signed up?" link? That would actually make sense. 
+                  * This seems to be working; (Oct 29) - getting the lowest cpc and cplc of any retargeting campaign. Normally, there would be cause for concern that it's targeting people unlikely to actually convert, just click; but these are people who have already signed up. 
+                      * So: Continue to increase budget to a reasonable point, until/unless cpc/cplc increases (currently lowest on both, significantly.) To check effectiveness, check analytics to purchase, over a long period; but, this won't account for people that went to the app. May just have to increase budget and look at overall success. **do**, **check**
                * Depending on how this goes, **check**
-                   * Try another campaign aiming at this audience with a conversion event firing on the "already signed up?" link on the page. 
+                   * Try another campaign aiming at this audience with a conversion event firing on the "already signed up?" link on the page. **do**
 
  * `clicked` : shifted most of budget to new creative.
    * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. (Oct 16)
       * Oct 24 - One fern left in old campaign doing great; increased budget $2 to $3. Continue to increase slowly. **check**
       * Oct 24 - Created new ad group with explicit cost. If it doesn't bomb, a/b (actual split test) with a different headline. **check**
+          * Old group catching up now, as costs increase for new creative; shifted some of the budget back (Oct 29).
 
 
 * *Onboard-End:* 
@@ -55,6 +65,8 @@
 * *Signed-up:*
  * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. 
     * Evidence creative seems to be kicking ass; but campaign budget optimization is on, so it could just be that it's getting aimed at all the cheap conversions. Increased budget a touch, as planned; if non-evidence creative continues to have higher CPA, turn off and see if other costs increase. **check** **do** (Oct 24)
+
+  * ONBOARD LOOKALIKE WAS NOT BEING EXCLUDED ON NEW CREATIVE AD GROUPS; EXCLUDED AND DRASTICALLY REDUCED SPEND. (Oct 29)
 
 * *Regionally Targeted*
   * Copy ideas: 
@@ -134,6 +146,20 @@
 
 ### Depression General Campaign
 
+**Do Now** (Sure next steps)
+* Do a "coping with depression" + "how to cope with depression" campaign, in one (with "Learn to" copy).
+* Start a "seasonal depression" campaign...locational?
+
+**How to cope with depression**
+* Baseline: As part of `depression general BMM`, this keyword had 10 conversions, at a cost of $1.62, over 3 months (Aug-Oct). *check* to see if breaking it out into an exact-match campaign improves upon this.
+* Oct 30 start, from `dep gen`.
+
+**How to beat depression**
+* Started Oct 30; broke out from `beat depression`. *check*
+
+**How to fight depression**
+* Broke out from `fight depression` and `depression general`, Oct 30. *check*
+
 **Get out of depression**:
 * (Check EMM; doing better than BMM.) Looks like `depression/program` does better than `get_out_of/depression`. Changed several to this (Sept 18). If this pattern continues, try a/b'ing rational (rather than relevance-focussed) url's on other, large campaigns (where they aren't).
 * BMM: 
@@ -162,6 +188,11 @@
     * Still spending jack shit (Oct. 17th); *examine* with same methods as `self-help`.
 * EM:
   * Ditto above. 
+
+**Depression Test** Failed; high cost. Killed until we make an online PHQ9. 
+
+**Depression Therapy**
+* EM doing well; added `depression/program` variant and replicated to BMM. (Oct 30) *check*
    
 **CBT**
 General: Wondering if this might be where it's gonna be. ? Perhaps better to focus on other avenues, and leave this as a low-spending option, unless I want to try display network stuff, or get custom audiences. (Oct 17th.)
@@ -200,13 +231,17 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
       * Other ads spent a little; responsive ad still most successful. Added two new variants (testimonial, `depression/program`); choose one that performs the best. (Oct 17)
 * If anything's succesful here, ad to EM. 
 
-**Others** - Not yet optimized really. Go through. 
+**Others** - Not yet optimized really. Go through.
+
+**Anxiety**
+* EM:
+  * Doing well. Added `/anxiety/program` variant; *check* and reproduce if successful. Increased the budget a bit.
+  * After a bit, start breaking out campaigns. 
+* BM:
+  * Spending really high, but it's early; seems to be getting better. Most matches are random one-time things. I excluded a bunch, but may need to exclude some broader words. I lowered the budget a lot. Oct 30.*check*
 
 
 
-* Re: above - maybe just try a campaign for `how to ... depression` [fight cope get rid not be snap out pull yourself out]
-
-* `Depression Test`/`Depression Therapy` - new campaigns requested by Eddie. `Test` spending low with high cost; `therapy` currently not spending. If they don't improve, kill. If they start doing better, create BMM campaigns to match. *check*
 
 ## To try:
 *Next*
@@ -215,6 +250,7 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
 * Try `android depression app`, `ios depression app` campaigns, or groups within a campaign
 * "How to X depression naturally" (or just `depression naturally`). 
 * Look at testing out other extensions; potentially customizing to match ads.
+* Start a "depressed politics" campaign? maybe with real small budget. 
 
 * Consider editing SEO for organic search to include best copy from ads. 
 
