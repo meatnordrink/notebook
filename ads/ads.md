@@ -66,6 +66,9 @@
       - Hybrid: Negative copy, positive image (winter fun in NY.)
       - See if I can target rural vs city; adjust images appropriately. (Looks like I can; perhaps, for first campaign, try targeting city; then try rural.)
 
+* *Anxiety*
+  * Started Oct 28. 
+
 ### To check/Do
 
 * Think on maybe an Oceania campaign? Or, check what currencies we're getting paid in, and try a campaign targeting whatever's behind USD?
@@ -133,6 +136,10 @@
 * *If the increase at the end of the month is severe, lower the ad budget at the end of the month to constrain spend*
 
 ### Depression General Campaign (Oct 17th last check)
+
+*Todo Next* 
+  * Go through CBT exact, broad, post Nov 1st. CPA was very high; some ads/groups were spending a lot with no results. But, it was the end of the month. Reduced budget Nov 1st; see if pattern holds. If so, disable (such as `CBT App EM`.) But hopefully it was just burning through budget.
+
 
 **Anxiety**
 * Launched Oct. 28. Check and optimize; see what search terms are coming up and refine.
