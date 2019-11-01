@@ -144,7 +144,10 @@
 * Spend seems to be pretty solid under $2; added $100 to `Dep Gen BM`, $50 to `" " EM`. Hold steady for the rest of the month; expect a bit of a rise at the end of the month, then dip as the next one starts. 
 * *If the increase at the end of the month is severe, lower the ad budget at the end of the month to constrain spend*
 
-### Depression General Campaign
+### Depression General Campaign (Oct 17th last check)
+
+**Anxiety**
+* Launched Oct. 28. Check and optimize; see what search terms are coming up and refine.
 
 **Do Now** (Sure next steps)
 * Do a "coping with depression" + "how to cope with depression" campaign, in one (with "Learn to" copy).
@@ -194,27 +197,36 @@
 **Depression Therapy**
 * EM doing well; added `depression/program` variant and replicated to BMM. (Oct 30) *check*
    
-**CBT**
+**CBT** (Checked Oct 28)
 General: Wondering if this might be where it's gonna be. ? Perhaps better to focus on other avenues, and leave this as a low-spending option, unless I want to try display network stuff, or get custom audiences. (Oct 17th.)
 * BMM:
   * Spending up to about $4/day by Oct 1-9; trying to increase. 
-  * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10) *check*, a/b, go with winner unless both performing well. 
+    * Oct 28th: $10-$20/day; changes on Oct 17th must have had some effect!
+  * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10), a/b, go with winner unless both performing well. 
       * W/ testimonial performed well; shut off other. (Oct. 17th)
-  * Created `CBT self help` campaign; many ad variants. Oct 10. *check*
-      * Not spending.
-  * Added testimonial, /depression/program ad variants to some of the other campaigns. Oct 10 *check* 
-      * Seem to have helped a little with increasing spend; cpa consistent. Not drastic, but distinct. (Oct. 17)
-  * If `app` group continues to cost a lot, consider disabling. Excluded some negative keywords Oct 10, might help. 
-      * Seems to be doing better now; spending little, but good CPA.
+          * (Oct 28th) Responsive cost very high, so shut off; other ads all doing alright (spending); standard ad still doing best, but left all.
+      * Excluded more irrelevant search terms. (Oct 28)     
+  * Created `CBT self help` campaign; many ad variants. Oct 10. 
+      * Not spending. (Oct 17th)
+          * Still not spending; paused. (Oct 28th)
+  * `For Depression` group:
+    * Added `/program` variation to standard creative. *check*, reproduce if effective. 
+  * `app` group:
+        * Oct 28th; added `/program` variants for explicit price and testimonial ads; if `/program` continues to perform better than `/app`, switch. *check*
 * EMM: 
   * Spending at ~.50/day, Sept. 19-Oct 9. Trying to increase. 
     * Up to $2.00/day, yay! (Oct. 17)
+      * Up to about $5/day (Oct 28), yay! 17th changes must have helped. 
+  * `App`
+    * Seems to be doing well, since Oct 10th (? Really?) creation; added testimonial and explicit price variants. *check*
   * Ditto `CBT self-help` *check*
     * Spent a little, good CPA. (Oct 17)
-  * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10. *check*
-    * All seem good; added testimonial to the responsive ad, as it's done well elsewhere. (Oct. 17) *check*
+  * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10.
+    * All seem good; added testimonial to the responsive ad, as it's done well elsewhere. (Oct. 17) 
+       * Tweaked a little Oct 28. *check* (Responsive not spending now, but that might be because other ads are spending more. I'm fine with it.)
   * Added all the ads to `CBT` group, Oct 10. *check* 
     * Seem fine, though several not spending; added `/depression/program` variant.
+       * `depression/program` variant did well; several `CBT/Program` variants not converting; but not spending either, so left. (Can *check* from the 10th/18th, disable if they spend enough to be more than a conversion is worth.)
 
 **UpLift** (Did not check Oct 17)
 * BMM
@@ -224,12 +236,12 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
  * Added `UpLift for Depression` campaign; BMM too. Oct 10 *check* 
  * Added new ad variants; *check*
 
-**Mood Journal**
+**Mood Journal** (checked Oct 10)
 * BMM: 
   * Responsive search ad the only one that's spending. Oct 10. 
   * Added a couple titles to responsive ad; added testimonial, /depression/program variants. Oct. 10. *Check*
       * Other ads spent a little; responsive ad still most successful. Added two new variants (testimonial, `depression/program`); choose one that performs the best. (Oct 17)
-* If anything's succesful here, ad to EM. 
+* If anything's succesful here, ad to EM. *Do*
 
 **Others** - Not yet optimized really. Go through.
 
