@@ -42,16 +42,19 @@
       * text creative
       * font style/size
       Once this is done, try with similar but different photos in future months.
+  * All sucking, kinda; **do** TRY A NEW CAMPAIGN WITH BASICALLY THE SAME IMAGE/TEXT AS THE OLD ONE, BUT DIFFERENT GIRL IN IMAGE
 
 
 * *Retargeting:* 
- * Try breaking out signed-up retargeting and applying CBO to this whole campaign. **do**
+ * Try breaking out signed-up retargeting and applying CBO to this whole campaign.
+    * Did, 11/5. At this point, sign-up retargeting at .48/link click. 
+    * If clicked-end campaign still spending high, delete an ad group and see if that allows you to lower spend. **check**
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
     * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now.
         * Sucking hard, mostly; fern ad doing alright. But haven't spent much. 
             * Tried new tack; tried optimizing for link clicks. CPC and CPLC are actually good, the best of any; my thought is that it may be that, because people have already signed up, somehow the conversions aren't firing...maybe the go to the "already signed up?" link? That would actually make sense. 
                   * This seems to be working; (Oct 29) - getting the lowest cpc and cplc of any retargeting campaign. Normally, there would be cause for concern that it's targeting people unlikely to actually convert, just click; but these are people who have already signed up. 
-                      * So: Continue to increase budget to a reasonable point, until/unless cpc/cplc increases (currently lowest on both, significantly.) To check effectiveness, check analytics to purchase, over a long period; but, this won't account for people that went to the app. May just have to increase budget and look at overall success. **do**, **check**
+                      * So: Continue to increase budget to a reasonable point, until/unless cpc/cplc increases (currently lowest on both, significantly.) To check effectiveness, check analytics to purchase, over a long period; but, this won't account for people that went to the app. May just have to increase budget and look at overall success.
                * Depending on how this goes, **check**
                    * Try another campaign aiming at this audience with a conversion event firing on the "already signed up?" link on the page. **do**
 
@@ -63,14 +66,16 @@
 
 
 * *Onboard-End:* 
- * Added an explicit-cost + evidence group, Oct 24th. **check** If it does well, reproduce for signed-up audience.
- * After see the results from adding explicit-cost ad, increase budget slightly.**do** (Oct 24)
+ * Added an explicit-cost + evidence group, Oct 24th.  If it does well, reproduce for signed-up audience.
+    * After see the results from adding explicit-cost ad, increase budget slightly. (Oct 24)
+        * Not doing great; turned off less performant ad. Kill if doens't improve. **do**
 
 * *Signed-up:*
  * Removing old ad group seems to have been fine; costs have remained well below $2 (1.66, Oct 4-9th), and spend still looks good. Look at increasing spend slightly, on same terms as above. 
     * Evidence creative seems to be kicking ass; but campaign budget optimization is on, so it could just be that it's getting aimed at all the cheap conversions. Increased budget a touch, as planned; if non-evidence creative continues to have higher CPA, turn off and see if other costs increase. **check** **do** (Oct 24)
 
   * ONBOARD LOOKALIKE WAS NOT BEING EXCLUDED ON NEW CREATIVE AD GROUPS; EXCLUDED AND DRASTICALLY REDUCED SPEND. (Oct 29)
+     * Doing well now; leave for a bit. When time for a budget increase, this is a good candidate. **do**
 
 * *Regionally Targeted*
   * Copy ideas: 
@@ -81,6 +86,9 @@
       - Negative: "Don't let seasonal depression prevent you from making the most of winter. 
       - Hybrid: Negative copy, positive image (winter fun in NY.)
       - See if I can target rural vs city; adjust images appropriately. (Looks like I can; perhaps, for first campaign, try targeting city; then try rural.)
+
+  * Performing quite badly. Turned off all but two okay-performing ads; cloned an ad-group for US-New York City, seeing if just running them as fall ads helps. **check** Depending on the results of that, try just northern US.  
+  * **Do** Try winter-prep squirrel ad. (Target at northern US.)
 
 * *Anxiety*
   * Started Oct 28. 
