@@ -19,6 +19,7 @@
 # FB
 
 ***Notes of the moment:*** Consider following Adexpresso's suggestion to start new campaigns using CBO at a smaller budget for 4-7 days to let the algorithm figure shit out before scaling. 
+* Try dialect ads?
 
 ### Tested:
 * Broader (2-5%) lookalike (failed badly.)
@@ -167,13 +168,6 @@
   * Go through CBT exact, broad, post Nov 1st. CPA was very high; some ads/groups were spending a lot with no results. But, it was the end of the month. Reduced budget Nov 1st; see if pattern holds. If so, disable (such as `CBT App EM`.) But hopefully it was just burning through budget.
 
 
-**Anxiety**
-* Launched Oct. 28. Check and optimize; see what search terms are coming up and refine.
-
-**Do Now** (Sure next steps)
-* Do a "coping with depression" + "how to cope with depression" campaign, in one (with "Learn to" copy).
-* Start a "seasonal depression" campaign...locational?
-
 **How to cope with depression**
 * Baseline: As part of `depression general BMM`, this keyword had 10 conversions, at a cost of $1.62, over 3 months (Aug-Oct). *check* to see if breaking it out into an exact-match campaign improves upon this.
 * Oct 30 start, from `dep gen`.
@@ -198,7 +192,7 @@
     * Try breaking out a campaign for `how to help {x} with depression`
   * EMM: 
     * Testimonial ad did well in BMM, added to EM (Oct 9). *check*
-      * Testimonial add did well in both BMM and EM; added explicit price ad (to BMM as well), Oct. 17th. **check**
+      * Testimonial add did well in both BMM and EM; added explicit price ad (to BMM as well), Oct. 17th. *check*
 
 **Depression self-help**: 
 * EM: 
@@ -216,7 +210,8 @@
 **Depression Test** Failed; high cost. Killed until we make an online PHQ9. 
 
 **Depression Therapy**
-* EM doing well; added `depression/program` variant and replicated to BMM. (Oct 30) *check*
+* EM doing well; added `depression/program` variant and replicated to BMM. (Oct 30)
+    * BMM doing badly (Nov 5), catching lots of random stuff that's hard to exclude. Turn off if continues. *check*
    
 **CBT** (Checked Oct 28)
 General: Wondering if this might be where it's gonna be. ? Perhaps better to focus on other avenues, and leave this as a low-spending option, unless I want to try display network stuff, or get custom audiences. (Oct 17th.)
@@ -268,10 +263,12 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
 
 **Anxiety**
 * EM:
-  * Doing well. Added `/anxiety/program` variant; *check* and reproduce if successful. Increased the budget a bit.
+  * Doing well. Added `/anxiety/program` variant; reproduce if successful. Increased the budget a bit.
   * After a bit, start breaking out campaigns. 
+    * Got higher; reduced budget a bit Nov 5th. *check*, reduce again if necessary. 
 * BM:
-  * Spending really high, but it's early; seems to be getting better. Most matches are random one-time things. I excluded a bunch, but may need to exclude some broader words. I lowered the budget a lot. Oct 30.*check*
+  * Spending really high, but it's early; seems to be getting better. Most matches are random one-time things. I excluded a bunch, but may need to exclude some broader words. I lowered the budget a lot. Oct 30.
+    * Doing much better with CPA, but spend much lower. Good, leave. 
 
 
 
