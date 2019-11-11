@@ -50,6 +50,7 @@
  * Try breaking out signed-up retargeting and applying CBO to this whole campaign.
     * Did, 11/5. At this point, sign-up retargeting at .48/link click. 
     * If clicked-end campaign still spending high, delete an ad group and see if that allows you to lower spend. **check**
+      * Broken-out signed-up doing okay, not great (Nov 11) but okay - .55. But remaining ads went to hell under CBO; lowered budget, if it doesn't correct, go back to manual budgeting. And check out the performance on the analytics; check costs-per. **do**
  * `signed-up`: Confirmed that it's performing much worse than `onboard end` retargeting audience. Removed all but one fern ad, added new creative with Sept. woman. remove fern if still performing poorly; or lower budget for entire campaign if all performing poorly.
     * New ads don't seem to have been approved?? Tried to re-publish, Oct. 16th; lowered budget to $3 for now.
         * Sucking hard, mostly; fern ad doing alright. But haven't spent much. 
@@ -58,6 +59,7 @@
                       * So: Continue to increase budget to a reasonable point, until/unless cpc/cplc increases (currently lowest on both, significantly.) To check effectiveness, check analytics to purchase, over a long period; but, this won't account for people that went to the app. May just have to increase budget and look at overall success.
                * Depending on how this goes, **check**
                    * Try another campaign aiming at this audience with a conversion event firing on the "already signed up?" link on the page. **do**
+    * Think I can close all the above; after breaking out, one ad high; shut it off. If CPA doesn't go down below 50, further decrease budget. (Nov 11)
 
  * `clicked` : shifted most of budget to new creative.
    * New creative kicking old's butt. Result: Disabled all flower ads, left fern (best performing) at even lower budget; increased new creative's budget to $15. (Oct 16)
@@ -77,7 +79,7 @@
 
   * ONBOARD LOOKALIKE WAS NOT BEING EXCLUDED ON NEW CREATIVE AD GROUPS; EXCLUDED AND DRASTICALLY REDUCED SPEND. (Oct 29)
      * Doing well now; leave for a bit. When time for a budget increase, this is a good candidate. **do**
-
+     * Adjusted relative balcnce with `onboard-end` : 40/10 to 38/12. (Nov 11)
 * *Regionally Targeted*
   * Copy ideas: 
       - "There's more than one way to prepare for winter" "This isn't the only way to prepare for winter"... something like that. Image of some kind of winter prep. 
@@ -89,6 +91,7 @@
       - See if I can target rural vs city; adjust images appropriately. (Looks like I can; perhaps, for first campaign, try targeting city; then try rural.)
 
   * Performing quite badly. Turned off all but two okay-performing ads; cloned an ad-group for US-New York City, seeing if just running them as fall ads helps. **check** Depending on the results of that, try just northern US.  
+    * US-minus-NY group doing decent; NY-only not spending. Paused that, removed NY exclusion. (Nov 11)
   * **Do** Try winter-prep squirrel ad. (Target at northern US.)
 
 * *Anxiety*
