@@ -221,10 +221,14 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
 * BMM:
   * Spending up to about $4/day by Oct 1-9; trying to increase. 
     * Oct 28th: $10-$20/day; changes on Oct 17th must have had some effect!
+      * Due to low income #'s, decreased to ~ $5/day. (Nov)
   * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10), a/b, go with winner unless both performing well. 
       * W/ testimonial performed well; shut off other. (Oct. 17th)
           * (Oct 28th) Responsive cost very high, so shut off; other ads all doing alright (spending); standard ad still doing best, but left all.
-      * Excluded more irrelevant search terms. (Oct 28)     
+      * Excluded more irrelevant search terms. (Oct 28)   
+        * Nov 11th - lowered Target CPA to $1.75, as, being non depression-specific, this may be somewhat less valuable to us. (And the CPA is fairly high.) *check* if effective. 
+        * Created new ad, `/depression/program` variant; see if successful, act accordinly. *check*
+    * Could break out a lot of these campaigns. *do*  
   * Created `CBT self help` campaign; many ad variants. Oct 10. 
       * Not spending. (Oct 17th)
           * Still not spending; paused. (Oct 28th)
@@ -236,16 +240,19 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
   * Spending at ~.50/day, Sept. 19-Oct 9. Trying to increase. 
     * Up to $2.00/day, yay! (Oct. 17)
       * Up to about $5/day (Oct 28), yay! 17th changes must have helped. 
+        * BUT, now CPA has gone up to undesirably high. In addition to changes below (Nov 11th), I lowered budget back down to ~$2/day (though it seems to have been at about this for most of Nov anyway...)
   * `App`
     * Seems to be doing well, since Oct 10th (? Really?) creation; added testimonial and explicit price variants. *check*
   * Ditto `CBT self-help` *check*
     * Spent a little, good CPA. (Oct 17)
   * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10.
     * All seem good; added testimonial to the responsive ad, as it's done well elsewhere. (Oct. 17) 
-       * Tweaked a little Oct 28. *check* (Responsive not spending now, but that might be because other ads are spending more. I'm fine with it.)
+       * Tweaked a little Oct 28. (Responsive not spending now, but that might be because other ads are spending more. I'm fine with it.)
+          * Testimonial not spending great; paused. (Nov 11th.)
   * Added all the ads to `CBT` group, Oct 10. *check* 
     * Seem fine, though several not spending; added `/depression/program` variant.
        * `depression/program` variant did well; several `CBT/Program` variants not converting; but not spending either, so left. (Can *check* from the 10th/18th, disable if they spend enough to be more than a conversion is worth.)
+          * This group is spending high. It may be that there are too many ads, maybe??? I disabled one high-spending keyword, and lowered the target CPA; this keyword is necessarily less valuable to us, as it's not depression-specific. Also removed several ad forms, to try to help optimization get its shit together. Can remove more aggressively if necessary. (Nov 11th)*check*
 
 **UpLift** (Did not check Oct 17)
 * BMM
