@@ -2,6 +2,8 @@
 
 # Ads
 
+A few large ad goals, to figure out how to measure/address with a pro: 
+* Need to clarity all through funnel for retargeting and instagram; should we abandon these? They have higher costs early on, but maybe they do better later in the funnel?
 
 ## Questions for Ashley: 
 ### FB:
@@ -66,6 +68,7 @@
       * Oct 24 - One fern left in old campaign doing great; increased budget $2 to $3. Continue to increase slowly. **check**
       * Oct 24 - Created new ad group with explicit cost. If it doesn't bomb, a/b (actual split test) with a different headline. **check**
           * Old group catching up now, as costs increase for new creative; shifted some of the budget back (Oct 29).
+             * Nothing really spending except new creative. Shut them down. Keep an eye on the girl-pic creative; spending a lot with no results in last 7 days, but best last 30. (Nov 19)
 
 
 * *Onboard-End:* 
@@ -216,43 +219,12 @@
 * EM doing well; added `depression/program` variant and replicated to BMM. (Oct 30)
     * BMM doing badly (Nov 5), catching lots of random stuff that's hard to exclude. Turn off if continues. *check*
    
-**CBT** (Checked Oct 28)
-General: Wondering if this might be where it's gonna be. ? Perhaps better to focus on other avenues, and leave this as a low-spending option, unless I want to try display network stuff, or get custom audiences. (Oct 17th.)
-* BMM:
-  * Spending up to about $4/day by Oct 1-9; trying to increase. 
-    * Oct 28th: $10-$20/day; changes on Oct 17th must have had some effect!
-      * Due to low income #'s, decreased to ~ $5/day. (Nov)
-  * `CBT` Group: Added testimonial ad, added explicit price copy to responsive ad, and added 2nd responsive ad with testimonial as option (Oct 10), a/b, go with winner unless both performing well. 
-      * W/ testimonial performed well; shut off other. (Oct. 17th)
-          * (Oct 28th) Responsive cost very high, so shut off; other ads all doing alright (spending); standard ad still doing best, but left all.
-      * Excluded more irrelevant search terms. (Oct 28)   
-        * Nov 11th - lowered Target CPA to $1.75, as, being non depression-specific, this may be somewhat less valuable to us. (And the CPA is fairly high.) *check* if effective. 
-        * Created new ad, `/depression/program` variant; see if successful, act accordinly. *check*
-    * Could break out a lot of these campaigns. *do*  
-  * Created `CBT self help` campaign; many ad variants. Oct 10. 
-      * Not spending. (Oct 17th)
-          * Still not spending; paused. (Oct 28th)
-  * `For Depression` group:
-    * Added `/program` variation to standard creative. *check*, reproduce if effective. 
-  * `app` group:
-        * Oct 28th; added `/program` variants for explicit price and testimonial ads; if `/program` continues to perform better than `/app`, switch. *check*
+**CBT** 
+* BMM: 
+  * Costs a bit high; reduced spend. (Nov. 19th.)
+  * `CBT` group - trying out `/depression/program` variants. If they perform better long-term, replace `/CBT` variants. 
 * EMM: 
-  * Spending at ~.50/day, Sept. 19-Oct 9. Trying to increase. 
-    * Up to $2.00/day, yay! (Oct. 17)
-      * Up to about $5/day (Oct 28), yay! 17th changes must have helped. 
-        * BUT, now CPA has gone up to undesirably high. In addition to changes below (Nov 11th), I lowered budget back down to ~$2/day (though it seems to have been at about this for most of Nov anyway...)
-  * `App`
-    * Seems to be doing well, since Oct 10th (? Really?) creation; added testimonial and explicit price variants. *check*
-  * Ditto `CBT self-help` *check*
-    * Spent a little, good CPA. (Oct 17)
-  * To `CBT for Depression` group, added testimonial, explicit price, /depression/program, responsive ad, disabled high-cost ad variant (no "try free"); Oct. 10.
-    * All seem good; added testimonial to the responsive ad, as it's done well elsewhere. (Oct. 17) 
-       * Tweaked a little Oct 28. (Responsive not spending now, but that might be because other ads are spending more. I'm fine with it.)
-          * Testimonial not spending great; paused. (Nov 11th.)
-  * Added all the ads to `CBT` group, Oct 10. *check* 
-    * Seem fine, though several not spending; added `/depression/program` variant.
-       * `depression/program` variant did well; several `CBT/Program` variants not converting; but not spending either, so left. (Can *check* from the 10th/18th, disable if they spend enough to be more than a conversion is worth.)
-          * This group is spending high. It may be that there are too many ads, maybe??? I disabled one high-spending keyword, and lowered the target CPA; this keyword is necessarily less valuable to us, as it's not depression-specific. Also removed several ad forms, to try to help optimization get its shit together. Can remove more aggressively if necessary. (Nov 11th)*check*
+  * Seeing high ad costs, because many days have spend with no return for many groups. Was spending alright after many adjustments, expansions; but CPA not great. Tried just turning off all but one group, which happened to be performing well in the past week, and lowering budget. See how that impacts things. (Nov 19) *check*, and raise budget/re-enable things as appropriate. 
 
 **UpLift** (Did not check Oct 17)
 * BMM
@@ -276,6 +248,7 @@ General: Wondering if this might be where it's gonna be. ? Perhaps better to foc
   * Doing well. Added `/anxiety/program` variant; reproduce if successful. Increased the budget a bit.
   * After a bit, start breaking out campaigns. 
     * Got higher; reduced budget a bit Nov 5th. *check*, reduce again if necessary. 
+      * Got higher; reduced again. Seems to be converting to purchases poorly; may stop entirely. (Nov 19)
 * BM:
   * Spending really high, but it's early; seems to be getting better. Most matches are random one-time things. I excluded a bunch, but may need to exclude some broader words. I lowered the budget a lot. Oct 30.
     * Doing much better with CPA, but spend much lower. Good, leave. 
