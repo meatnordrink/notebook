@@ -95,6 +95,7 @@ A few large ad goals, to figure out how to measure/address with a pro:
 
   * Performing quite badly. Turned off all but two okay-performing ads; cloned an ad-group for US-New York City, seeing if just running them as fall ads helps. **check** Depending on the results of that, try just northern US.  
     * US-minus-NY group doing decent; NY-only not spending. Paused that, removed NY exclusion. (Nov 11)
+      * Doing alright as pan-US. Disabled breakfast ad, as it had better CPC, but lower conversion (people probably thought it was for food.) (Nov 25)
   * **Do** Try winter-prep squirrel ad. (Target at northern US.)
 
 * *Anxiety*
@@ -224,7 +225,8 @@ A few large ad goals, to figure out how to measure/address with a pro:
   * Costs a bit high; reduced spend. (Nov. 19th.)
   * `CBT` group - trying out `/depression/program` variants. If they perform better long-term, replace `/CBT` variants. 
 * EMM: 
-  * Seeing high ad costs, because many days have spend with no return for many groups. Was spending alright after many adjustments, expansions; but CPA not great. Tried just turning off all but one group, which happened to be performing well in the past week, and lowering budget. See how that impacts things. (Nov 19) *check*, and raise budget/re-enable things as appropriate. 
+  * Seeing high ad costs, because many days have spend with no return for many groups. Was spending alright after many adjustments, expansions; but CPA not great. Tried just turning off all but one group, which happened to be performing well in the past week, and lowering budget. See how that impacts things. (Nov 19), and raise budget/re-enable things as appropriate. 
+     * Nov 25 - has spent pretty much nothing. Turned some shit back on. :) *check*
 
 **UpLift** (Did not check Oct 17)
 * BMM
@@ -249,6 +251,7 @@ A few large ad goals, to figure out how to measure/address with a pro:
   * After a bit, start breaking out campaigns. 
     * Got higher; reduced budget a bit Nov 5th. *check*, reduce again if necessary. 
       * Got higher; reduced again. Seems to be converting to purchases poorly; may stop entirely. (Nov 19)
+        * Reduced budget further. `anxiety/program` variant the only one that's spending...reproduced for testimonial ad. (Nov 25)
 * BM:
   * Spending really high, but it's early; seems to be getting better. Most matches are random one-time things. I excluded a bunch, but may need to exclude some broader words. I lowered the budget a lot. Oct 30.
     * Doing much better with CPA, but spend much lower. Good, leave. 
