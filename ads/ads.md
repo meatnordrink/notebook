@@ -22,6 +22,10 @@ A few large ad goals, to figure out how to measure/address with a pro:
 
 ***Notes of the moment:*** Consider following Adexpresso's suggestion to start new campaigns using CBO at a smaller budget for 4-7 days to let the algorithm figure shit out before scaling. 
 * Try dialect ads?
+*  
+* Try a broader audience; one article mentioned that FB has recently shifted favor to broadly-targeted campaigns. 
+* Re-examine audiences for retargeting; consider increasing size. 
+
 
 ### Tested:
 * Broader (2-5%) lookalike (failed badly.)
@@ -155,6 +159,9 @@ A few large ad goals, to figure out how to measure/address with a pro:
 
 ## In Progress: 
 
+**STOPPING LOTS OF CAMPAIGNS/LOWERING BUDGETS** - Dec 11th, turned off Mood Journal (both), Brand BM; high spend Nov 1 - Dec 10. Lowered budget for others, on theory that FB ads are converting better. (Also, going into holidays may be a rough time.)
+
+* Dec 11 overall - lowering CBT budgets; need to get to lower average costs. Examine more carefully in future, raise if I think we might do better. Lowered other campaigns, re: above point. 
 
 **NEXT** - Stop campaigns that aren't spending much, but have high CPA?
                - **Try creating Responsive ads for them first, monitor**
@@ -173,8 +180,8 @@ A few large ad goals, to figure out how to measure/address with a pro:
 
 *Todo Next* 
   * Go through CBT exact, broad, post Nov 1st. CPA was very high; some ads/groups were spending a lot with no results. But, it was the end of the month. Reduced budget Nov 1st; see if pattern holds. If so, disable (such as `CBT App EM`.) But hopefully it was just burning through budget.
-
-
+  * Try lowering target CPA...maybe try a/b'ing it with something. Or reading up on it more. It's $1.75 now, even on campaigns with much lower average costs...Would like lower average cost. (Dec 11)
+  
 **How to cope with depression**
 * Baseline: As part of `depression general BMM`, this keyword had 10 conversions, at a cost of $1.62, over 3 months (Aug-Oct). *check* to see if breaking it out into an exact-match campaign improves upon this.
 * Oct 30 start, from `dep gen`.
