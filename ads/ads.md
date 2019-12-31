@@ -29,7 +29,8 @@
 ### Testing
 
 * *IG stories:*
-
+  * (Dec 31st) One ad from Sept. creative doing well. Turned off other (which entails higher budget for remaining ad), and linked to IG account. Cost/acquistion was .89. See how that does; if it continues to do similarly/better, try some variations. **todo**
+  * **todo** need to add in some more creative, before considering retargeting, prob.
 * *Retargeting:* 
 
 * *Onboard-End:* 
