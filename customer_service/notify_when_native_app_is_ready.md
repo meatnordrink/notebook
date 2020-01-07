@@ -1,0 +1,1 @@
+* jenniferjanney@yahoo.com - Notifications on iosApp didn't work, refunded, Jan 2020.
