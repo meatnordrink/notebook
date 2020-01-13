@@ -1,1 +1,2 @@
 * jenniferjanney@yahoo.com - Notifications on iosApp didn't work, refunded, Jan 2020.
+* mollib@gmail.com - app wasn't loading for awhile, now logs out and makes her sign back in again every time. Jan 2020. 
