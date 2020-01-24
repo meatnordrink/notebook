@@ -27,10 +27,12 @@
 
 ### Testing
 
+**Testing how to best insert ads into new campaigns. Jan 24 started Hemlocks, ad, inserted into existing ad groups.**
+
 * *IG stories:*
   * (Dec 31st) One ad from Sept. creative doing well. Turned off other (which entails higher budget for remaining ad), and linked to IG account. Cost/acquistion was .89. See how that does; if it continues to do similarly/better, try some variations. 
     * Jan 13th - still about .90/ad target; increased budget to $3.00. 
-  * **todo** need to add in some more creative, before considering retargeting, prob.
+      * Jan 24th - Introduced winterBridge, Hemlocks creative. **Todo** - after eliminating poor performing, try variants with "app" in wording. If all poor performing, try introducing as separate ad group; or separate campaign. 
 * *Retargeting:* 
  * Turned off one of these groups...examine more carefully/turn up significantly one week, see if impact. (Jan 13)
 * *Onboard-End:* 
