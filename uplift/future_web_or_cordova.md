@@ -5,3 +5,4 @@ Features to implement if we do end up sticking with the web version.
 * replace `iosApp` with `platformPurchased` where appropriate
 * Pop-up for homescreen badge
 * Increase gamification with forum; add liking a post, replying to someone elses, etc. as tasks in daily digest. (If we want to promote forum.)
+* Need to make ability to cancel in-app much clearer. 
