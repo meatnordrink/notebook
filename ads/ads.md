@@ -1,6 +1,11 @@
 # Ads
 (Re-organize this such that to-dos are at top; questions/future at bottom.)
 
+## Large moves:
+
+* "" FB - Feb 3 - 10th, Onboard End: Clicked Download campaign; Hemlock, New Year's, Evidence, Sept. Creative groups: Avg. CPR: .72, Spend: 280. Feb 11th, turned off all groups but Evidence.
+* Next week: Adopt above if effective, increment up slightly. 
+
 ## Questions for Ashley: 
 ### FB:
 * What is the best strategy for introducing a new ad variation? In existing group, as own group? How about totally new creative? (Should I a/b, if I still can?)
