@@ -24,3 +24,7 @@ subscription_status
 paid_through_date (may be blank for active Braintree subscriptions)
 created_at  (in UTC; assigned automatically by postgres)
 updated_at  (in UTC; assigned automatically by postgres)
+
+## Doc
+
+https://docs.google.com/document/d/1_bH-3WPi81LcsW5sN39f7BcVjHd8gayFROibxGJNxSk/edit#
