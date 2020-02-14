@@ -1,0 +1,8 @@
+List of custom classes available for embedded UpLift programs
+
+celebQuotes
+	paler, subtler than alert-info
+emptyBox
+	a backless black box around something (designed for lists)
+limit-alert
+	alert-info applied only to italicized text in a sentence. 

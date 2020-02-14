@@ -1,0 +1,28 @@
+Here’s that list of significant researchers in the iCBT field we discussed. These are the ones I come across most frequently/seem to publish the most authoritative papers in the field. I tried to add enough about each one that you would be able to place them within the general iCBT constellation. Let me know if you’d like anything else, or if these aren’t the type of people you were looking for.
+
+Pim Cuijpers - General giant in the field. Published a recent influential review and summary of the last 40 years of iCBT. Netherlands.
+
+Simon Gilbody - Britain, University of York. Published a controversial paper (the REEACT study) concluding that iCBT was pretty much useless. However, in his paper, he used Beating the Blues and MoodGYM, which both suck, and almost nobody got past the first session.
+
+Elizabeth Littlewood - Also U of York. Part of REEACT Team as well.
+
+Derek Richards - Trinity College, Ireland; also part of Silvercloud Health, which has a comprehensive suite of mHealth apps.
+
+Ladislav Timulak - Usually publishes with Richards. Also Trinity College, but not technically Silvercloud, it seems.
+
+Gerhard Andersson - Swedish. Works with Cuijpers sometimes. Part of influential Karolinska institute.
+
+Gavin Andrews - Australia. Sometimes publishes meta-analyses with Cuijpers.
+
+Nikolai Titov - Colleague of Andrews, Australian
+
+Heleen Riper - Amsterdam, also holds positions in Sweden and Germany. Publishes with Andersson, Cuijpers, Karyotaki.
+
+Eirini Karyotaki - Amsterdam. Has published several important meta-analyses on iCBT, including a recent one concluding that iCBT was unlikely to do more harm than usual care.
+
+Ricardo Munoz - California (SF/Palo Alto). Has published with many of the big authors, and has recently published some interesting work on facets of iCBT research, such as on MTurk population characteristics, the effects of microinterventions, and the effect of depression on the decision to join a clinical trial.
+
+David Mohr - Northwestern University, Chicago. Has a lot of opinions about where the digital mental health field should go. Developed a model for acclerating the pace of digital mental health interventions, ACTS (Accelerated Creation-To-Sustainment).
+
+Anyone involved with Deprexis (there are about 20, German). It’s one of the most impressive apps out, very similar to us. (Only in Germany at the moment, as far as I know, though they do have an English version.)
+

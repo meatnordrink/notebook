@@ -1,0 +1,15 @@
+List of useful GT programs: 
+
+*program: Generate random number (Spencer)
+	>>numberOfDigits = x
+	*program: Generate random number
+	>>y = randomNumber
+
+*program: Date Text Shortener (Aislinn)
+	>>date="{dateNow}"
+	*program: Date Text Shortener
+	>>m=monthNumeric
+	>>d=dateOfMonth
+	>>y=yearShort
+	(This particular setup is useful for sending a date via url parameter)
+
