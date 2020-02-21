@@ -5,6 +5,23 @@
 
 * "" FB - Feb 3 - 10th, Onboard End: Clicked Download campaign; Hemlock, New Year's, Evidence, Sept. Creative groups: Avg. CPR: .72, Spend: 280. Feb 11th, turned off all groups but Evidence.
 * Next week: Adopt above if effective, increment up slightly. 
+  * **Stayed Constant**. Takeaway: *Don't have separate ad groups targeting the same audience; they'll compete with each other. Put different ads targeting the same audience in a single ad group.* 
+    Different audiences can go in the same campaign for easier management. *The only reason (this is still a theory) to break out an ad group into a separate campaign is to be able to better control spend.* You could do this with spend limits per ad group, but then you're interfering with the optimization algorithm a bit; a separate group allows for a unique optimization algorithm, unaffected by how well other groups in the campaign are doing.
+
+    **Q for Ashley, newest** - Is the (this is still a theory) above true?
+
+**ADS OFF FEB 20**
+Had a good setup when shut down. It was: 
+* Instagram Stories
+* Onboard End - Signed-Up Audience, 1%
+* Onboard End - Clicked Download, 1%
+View Charts
+* Retargeting - Clicked End
+
+Google: 
+
+* Depression, Onboard End, Exact Match
+* Depression, Onboard End, Broad Match
 
 ## Questions for Ashley: 
 ### FB:
