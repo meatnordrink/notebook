@@ -15,6 +15,12 @@
 
 * This can be caused by ad blockers (including the defaults included in Brave, etc.). (Dec 2019)
 
+## Need to reset user's run
+
+* Just finding their run and switching it to preview is the best way to do this. 
+
+## User has two runs
+
 ## User repeatedly sent to sign-in screen
 
 As of Jan 2020, Lyudmil says (yet to verify):
