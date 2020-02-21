@@ -23,7 +23,7 @@
 
 ## User repeatedly sent to sign-in screen
 
-As of Jan 2020, Lyudmil says (yet to verify):
+As of Jan 2020, Lyudmil says (yet to verify; I suspect something else may be happening):
 
 I only know of one cause of this, and it's Safari blocking third-party
 cookies.

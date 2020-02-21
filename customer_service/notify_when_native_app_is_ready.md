@@ -4,6 +4,7 @@
 * lewis.bollard@gmail.com - "took too long to load" bug. Very reasonable...trying to get him a fix. If not - replace. Jan 2020. 
 * debwebb@me.com - Jan 27; native app not working.
 
-## Just notify when interpreter update is released
+## Android
 
-* bonnie.twogood@icloud.com
+* robinrod.rabuck@gmail.com - already gave her free access, so don't necessarily have to give free. 
+* starnbergersee@outlook.com - also refunded and gave free, so "". (Maybe discount coupons for these people, if we have them?)
