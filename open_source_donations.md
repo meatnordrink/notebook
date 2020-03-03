@@ -13,8 +13,16 @@
 ### Consider
 
 * LXLE (OS on purple laptop)
+* Subscribe to Medium
 
 ## Don't Need
 
 * *Clementine*
 * *Taskwarrior*/*InTheAm*
+
+
+# Work
+
+## To Donate - 
+
+* Bulma - https://www.patreon.com/jgthms

@@ -8,3 +8,4 @@
 
 * robinrod.rabuck@gmail.com - already gave her free access, so don't necessarily have to give free. 
 * starnbergersee@outlook.com - also refunded and gave free, so "". (Maybe discount coupons for these people, if we have them?)
+* upliftemail@gmail.com - Ana T. Not sure if she wants access, but could offer. She was really far in the program, run keeps ending. 
