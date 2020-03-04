@@ -14,7 +14,13 @@
     * Koto
     * Revolution Remixes ?
     * The Lost Voices
-* Rising Appalachia - Cluck Ol Hen
+* Rising Appalachia 
+    - Cluck Ol Hen
+    - Wider Circles
+        - Medicine
+        - Synchronicity
+        - Cripple Creek
+        - Stromboli
 * Emancipator 
     * Soon it will be cold enough (album)
     * New album (mountain something)

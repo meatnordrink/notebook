@@ -7,7 +7,8 @@
 * Build a separate app in React, to test a unified codebase. Something like a food journal, mindfulness, whatever. 
 
 ### Swift
-* Something I could do in the current app? 
+* Something I could do in the current app?
+* Develop a version of a current module entirely in Swift 
 
 ### Java/Kotlin
 * "" the new Android app
@@ -21,3 +22,8 @@
 * Switching to Native
 ### Data Analysis
 * Not sure how relevant the CSV's/Panda will be anymore. Could investigate Big Query. 
+
+
+In general, currently do a bunch of things; isn't scope to really get deep into any of them. Would like to get deep into something. 
+
+Code related, not software. 

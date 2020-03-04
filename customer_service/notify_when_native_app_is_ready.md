@@ -4,6 +4,16 @@
 * lewis.bollard@gmail.com - "took too long to load" bug. Very reasonable...trying to get him a fix. If not - replace. Jan 2020. 
 * debwebb@me.com - Jan 27; native app not working.
 
+W99EA9WRHXN6
+YFKYE6MXPXTM
+R4WFY93MFKWN
+APMPFMEJHYXY
+MH7WFHTR9A9R
+
+To redeem it, open the App Store app on your iPhone, press the person icon in the top right, press 'Redeem Gift Card or Code' and then enter the code in to redeem it.
+
+You'll get a confusing email about a subscription that will last a year, but nothing will actually be charged and the subscription won't be automatically renewed in a year.
+
 ## Android
 
 * robinrod.rabuck@gmail.com - already gave her free access, so don't necessarily have to give free. 
