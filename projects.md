@@ -10,6 +10,7 @@ https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-
 
 * Node program to take all space-separated words (or by line?) in a doc and return those not present in both docs. Use fsreadstream, make words into arrays. This is probably already possible using bash commands, but whatever. Idea is to be able to see what variables are unique in both docs. Could make the same thing in Python for fun. 
 
+* ! - make tool to input js regex and export matches. 
 
 ## React/Docker (Then Vue, Flask, Kubernetes)
 
