@@ -1,3 +1,10 @@
+Next: 
+* Rwandans - Yes. Full album, $10. (Want five tracks, would give $10 for five otherwise. Min for album is $8.)
+* Clozee - Koto, Harmony EP.
+* Clozinger -?
+* Emancipator -?
+* Lil fish - ?
+
 ## Not on Bandcamp
 * edIT - more lazers
 * Lindsey Stirling
@@ -6,6 +13,12 @@
 * Pentatonix - Radioactive
 * MMW
 * Abigail Washburn & Bela Fleck
+* Skrillex
+    * Recess 
+        * Stranger
+        * Breakin' a sweat
+        * Kyoto w Sirah
+        * Bangarang
 
 ## I think not on bandcamp
 * Johnny Flynn
@@ -43,11 +56,16 @@
     * Japan
 * The Good Ones (Rwandan)
     * Where did you go wrong, my love
+    * The Farmer
+    * ~ Will you be my protector
+    * ~ Marciana, you should love
+    * Seraphinne...
+    * My wife...
+    * My smartest
 * Ratatat?
 * Lil Fish 
-    * Organic 
-        * Lil Fish
-        * Organic
+    * Organic - all - yes 
+
 
 ## Don't Know
 * NNNJ - Fiji Geesus
