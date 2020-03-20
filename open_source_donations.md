@@ -14,6 +14,8 @@
 
 * LXLE (OS on purple laptop)
 * Subscribe to Medium
+* 
+
 
 ## Don't Need
 
@@ -22,6 +24,8 @@
 
 
 # Work
+
+* Hacking With Swift - https://www.patreon.com/twostraws
 
 ## To Donate - 
 
