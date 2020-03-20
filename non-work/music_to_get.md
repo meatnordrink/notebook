@@ -30,6 +30,10 @@
     * Japan
 * The Good Ones (Rwandan)
     * Where did you go wrong, my love
+## Check out
+* Bassnectar
+    * Enter the chamber
+
 
 ## Don't Know
 * NNNJ - Fiji Geesus
