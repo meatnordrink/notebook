@@ -12,6 +12,9 @@ https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-
 
 * ! - make tool to input js regex and export matches. 
 
+## SQL
+* Expand on current sql.sh, make into a program for recording finance info (perhaps add bash bit to also record in argent.md), so set up to send entry or retrieve all in readable form, using nodeSQL.
+
 ## React/Docker (Then Vue, Flask, Kubernetes)
 
 * PHQ9

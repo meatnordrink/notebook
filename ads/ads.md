@@ -17,7 +17,11 @@
 * Check out the bid simulator; check out which spend level (according to Google) we'd get the most profit.
 
 # Apple Search
+* **Do** - kill existing Advanced campaign, start a new one at roughly $5/day spend, *OR*:
+* A/B just Basic vs just Advanced campaign. 
+
 * Expand depending on results.
 * Consider an EM campaign. 
 * Try ads featuring other screens of app; Rewards. 
 * Consider overhauling and just running advanced BM and EM.
+

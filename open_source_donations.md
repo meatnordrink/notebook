@@ -13,15 +13,21 @@
 ### Consider
 
 * LXLE (OS on purple laptop)
+* Settings Sync extension, VS Code
 * Subscribe to Medium
+* Zeal
+* Apexcharts (if I continue to use)
+* Bulma ("")
 
-## Don't Need
+## They Don't Need $$
 
 * *Clementine*
 * *Taskwarrior*/*InTheAm*
 
 
 # Work
+
+* Hacking With Swift - https://www.patreon.com/twostraws
 
 ## To Donate - 
 
