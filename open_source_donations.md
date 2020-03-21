@@ -15,14 +15,9 @@
 * LXLE (OS on purple laptop)
 * Settings Sync extension, VS Code
 * Subscribe to Medium
-<<<<<<< HEAD
 * Zeal
 * Apexcharts (if I continue to use)
 * Bulma ("")
-=======
-* 
-
->>>>>>> a2f2318a1809e399eec2f148b3fb695c0f3ddf95
 
 ## They Don't Need $$
 
