@@ -4,6 +4,11 @@ Next:
 * Clozinger -?
 * Emancipator -?
 * Lil fish - ?
+* Glitch Mob - 3 new?
+* Bonobo
+    * Black Sands
+        - Kong, El Toro, 1009, Animals, Black Sands
+
 
 ## Not on Bandcamp
 * edIT - more lazers
@@ -65,7 +70,13 @@ Next:
 * Ratatat?
 * Lil Fish 
     * Organic - all - yes 
-
+* Bonobo (chill-ish)
+    * Black Sands
+        - Kong, El Toro, 1009, Animals, Black Sands
+* Rocket Empire (chill)
+    * Eponymous
+        - Coming Up
+    * See me speak in color (all?)
 
 ## Don't Know
 * NNNJ - Fiji Geesus
