@@ -18,6 +18,7 @@
 * Zeal
 * Apexcharts (if I continue to use)
 * Bulma ("")
+* Free Code Camp - https://www.freecodecamp.org/donate
 
 ## They Don't Need $$
 
