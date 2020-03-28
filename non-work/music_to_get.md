@@ -1,13 +1,9 @@
 Next: 
-* Rwandans - Yes. Full album, $10. (Want five tracks, would give $10 for five otherwise. Min for album is $8.)
-* Clozee - Koto, Harmony EP.
 * Clozinger -?
 * Emancipator -?
 * Lil fish - ?
-* Glitch Mob - 3 new?
-* Bonobo
-    * Black Sands
-        - Kong, El Toro, 1009, Animals, Black Sands
+
+## Tracks to remove?
 
 
 ## Not on Bandcamp
@@ -24,6 +20,8 @@ Next:
         * Breakin' a sweat
         * Kyoto w Sirah
         * Bangarang
+* Rising Appalachia
+    * Filthy Dirty South (Cluck ol' hen)
 
 ## I think not on bandcamp
 * Johnny Flynn
@@ -37,11 +35,8 @@ Next:
 ## On Bandcamp
 * edIT - ?
 * Clozee
-    * Koto - Yes.
     * Revolution Remixes - Album, yes, give suggested price (remixes, not sure they go to Clozee; maybe put rest, $5 towards original.)
     * The Lost Voices (lil Fish featuring Clozee) - YES (but maybe just buy Lil Fish's whole album)
-    * Harmony 
-        - Black Panther
 * Clozinger
 * Rising Appalachia 
     - Cluck Ol Hen
@@ -50,6 +45,9 @@ Next:
         - Synchronicity
         - Cripple Creek
         - Stromboli
+    * (Vocal, non-work:)
+        * St. James Infirmary
+        * Medicine
 * Emancipator 
     * Soon it will be cold enough (album)
     * New album (mountain something) - when out
@@ -59,30 +57,23 @@ Next:
     * New Album - Simulcast - (maybe not - essentially Weather)
 * Jaques le Noir 
     * Japan
-* The Good Ones (Rwandan)
-    * Where did you go wrong, my love
-    * The Farmer
-    * ~ Will you be my protector
-    * ~ Marciana, you should love
-    * Seraphinne...
-    * My wife...
-    * My smartest
 * Ratatat?
 * Lil Fish 
     * Organic - all - yes 
 * Bonobo (chill-ish)
-    * Black Sands
-        - Kong, El Toro, 1009, Animals, Black Sands
+    * Check out newer stuff
 * Rocket Empire (chill)
     * Eponymous
         - Coming Up
     * See me speak in color (all?)
+* Beats Antique
+    * Check out older albums (? maybe a little later? Already have two.)
 
 ## Chill playlist - Bandcamp
 
 * Boards of Canada
 
 
-## Don't Know
+## Find
 * NNNJ - Fiji Geesus
 * Indigo - Steps to Heaven

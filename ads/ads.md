@@ -3,10 +3,16 @@
 
 # FB
 ## To do: 
+* Consider restarting old campaigns, just send them to the website. (Need to put the pixel on the website, set up a conversion event, if it's not already there.)
+* Could consider allowing other platforms. 
+* *Reduced daily spend on main campaign from $200 to $150; Mar 23*
+
+* Try app-based lookalike audiences when available.
 * Try retargeting people who downloaded but did not purchase.
 * Try ads featuring image of app; try Rewards. 
 * Ads that send people to landing page vs straight to app. 
     * Not entirely sure how to a/b this, as I can't set it on a per-ad level. I wonder if I can create an audience out of people who have clicked on one campaign, and then exclude them from the other campaign....
+* Also try sending people to web onboard vs landing page. 
 
 # Google
 * First, get to frigging spend. It may be that I need to dive into the Firebase setup.
