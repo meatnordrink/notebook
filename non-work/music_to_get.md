@@ -3,29 +3,30 @@ Next:
 * Emancipator -?
 * Lil fish - ?
 
-## Tracks to remove?
+## Tracks not for Work
+* The Good Ones
+    * Life is Hard
+    * 
+* Michael Franti
 
 
 ## Not on Bandcamp
 * edIT - more lazers
 * Lindsey Stirling
-    * Artemis (album)
-    * Shatter Me, Beyond the Veil
+    * Shatter Me
+        * Roundtable Rival
+    * Beyond the Veil
+    * Lindsey Stirling
+        * Elements (Orchestral)
 * Pentatonix - Radioactive
 * MMW
 * Abigail Washburn & Bela Fleck
-* Skrillex
-    * Recess 
-        * Stranger
-        * Breakin' a sweat
-        * Kyoto w Sirah
-        * Bangarang
 * Rising Appalachia
     * Filthy Dirty South (Cluck ol' hen)
 
 ## I think not on bandcamp
 * Johnny Flynn
-    * A larum
+    * A larum (!) - entire
     * Silion
 * Atmosphere
 * Bright Eyes
@@ -72,8 +73,10 @@ Next:
 ## Chill playlist - Bandcamp
 
 * Boards of Canada
+* O'Hooley and Tidow - Inversions
+    * All but: Inside a Soul (Poem), Hawkward (nice but vocal), My Father's Reel (Poem)
 
-
+    
 ## Find
 * NNNJ - Fiji Geesus
 * Indigo - Steps to Heaven

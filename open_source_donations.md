@@ -30,7 +30,8 @@
 
 * Hacking With Swift - https://www.patreon.com/twostraws
 
-## To Donate - 
+## To Donate - (Use for Work)
 
 * Bulma - https://www.patreon.com/jgthms
 * Jekyll - https://opencollective.com/jekyll#backer 
+* Let's Encrypt (all our SSL certificates) - https://letsencrypt.org/donate

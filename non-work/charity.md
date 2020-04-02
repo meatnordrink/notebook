@@ -23,7 +23,7 @@
 * Pam Chenea salary drive - $25?
 * Local pottery guy - $50
 * RCV - $50ish?
-* North Wayne Church - $20?
+* North Wayne Church - $20
 
 (~2% of salary)
 
@@ -31,5 +31,7 @@
 
 * ACLU - $15/mo
 * MSF - $15/mo
+* Hope House - $207
+
 
 

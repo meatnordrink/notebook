@@ -1,6 +1,8 @@
 # Ads
 > Since Mar 3 2020 switch to native app
 
+**Leave spend stable for a bit; try to make tweaks to increase purchases/$ (leave stable to increase visibility on this)** (But, covid...might want to reduce, *then* leave stable.)
+
 # FB
 ## To do: 
 * Consider restarting old campaigns, just send them to the website. (Need to put the pixel on the website, set up a conversion event, if it's not already there.)
@@ -15,6 +17,13 @@
 * Also try sending people to web onboard vs landing page. 
 
 # Google
+* Tweak ad copy to be clear it's for iOS, not Android, to reduce Android clicks.
+* Wrap conversion in iOS-only JS. (Maybe algorithm will pick up on this anyway...)
+* Create ad group for `ios depression app` `iphone depression app`.
+* Try to expand the iOS app install campaign. 
+* Go into exact match campaign, figure out why spend is lower, cost higher than broad.
+
+
 * First, get to frigging spend. It may be that I need to dive into the Firebase setup.
     * No, it was the target CPA (at least, for some of the campaigns.) Spending now (Mar 19), let it spend over the weekend, then **go in and optimize.**
 * Add other ad groups from "Depression General"
