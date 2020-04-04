@@ -5,6 +5,14 @@
 
 # FB
 ## To do: 
+**Try new audiences next week:**
+As ad groups within campaign.
+* App-based lookalike audience
+* No-restrictions audience
+
+* Make a campaign targeting app events; free trials. Have to think about how to do this without competing with other campaign...
+
+
 * Consider restarting old campaigns, just send them to the website. (Need to put the pixel on the website, set up a conversion event, if it's not already there.)
 * Could consider allowing other platforms. 
 * *Reduced daily spend on main campaign from $200 to $150; Mar 23*
@@ -17,6 +25,8 @@
 * Also try sending people to web onboard vs landing page. 
 
 # Google
+* Expand UAC campaign. Add another ad group...maybe with some imagery from the FB ads. 
+
 * Tweak ad copy to be clear it's for iOS, not Android, to reduce Android clicks.
 * Wrap conversion in iOS-only JS. (Maybe algorithm will pick up on this anyway...)
 * Create ad group for `ios depression app` `iphone depression app`.
