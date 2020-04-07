@@ -12,6 +12,9 @@ As ad groups within campaign.
 
 * Make a campaign targeting app events; free trials. Have to think about how to do this without competing with other campaign...
 
+* If the fern still has low CPI, turn it off. (Did as of Apr 6th.)
+
+* IG campaign with no audience spending better; when we want more volume, as opposed to better profit ratio, could turn up. (Apr 6.)
 
 * Consider restarting old campaigns, just send them to the website. (Need to put the pixel on the website, set up a conversion event, if it's not already there.)
 * Could consider allowing other platforms. 
