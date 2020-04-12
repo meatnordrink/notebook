@@ -12,6 +12,17 @@ https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-
 
 * ! - make tool to input js regex and export matches. 
 
+## CSS
+
+* Make a dark theme for Stylus/ish for the Material-UI docs pages.
+
+## Node
+
+* Make a program to convert text in various formats to other useful formats. (js)
+    * Lines (no spaces) to array of strings - `^(.*)\n^(.*)\n^(.*)`
+    * 
+* Make a program to convert GT (or at least certain kinds of GT blocks) back into html. basic text; bold, italic, links.
+
 ## SQL
 * Expand on current sql.sh, make into a program for recording finance info (perhaps add bash bit to also record in argent.md), so set up to send entry or retrieve all in readable form, using nodeSQL.
 

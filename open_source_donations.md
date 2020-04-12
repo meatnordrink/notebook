@@ -19,6 +19,7 @@
 * Apexcharts (if I continue to use)
 * Bulma ("")
 * Free Code Camp - https://www.freecodecamp.org/donate (minimum $60 if one-time)
+* Eloquent Javascript
 
 ## They Don't Need $$
 
