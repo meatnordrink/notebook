@@ -24,3 +24,4 @@ You'll get a confusing email about a subscription that will last a year, but not
 ### Notify
 * AAD87@pitt.edu
 * mathieuputz@gmail.com
+* owen_goodwin@me.com

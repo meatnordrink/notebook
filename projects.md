@@ -30,3 +30,4 @@ https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-
 
 * PHQ9
 * Simple bird program
+* **Make linearGauge component into OS repo**
