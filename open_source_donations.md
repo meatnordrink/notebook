@@ -20,6 +20,9 @@
 * Bulma ("")
 * Free Code Camp - https://www.freecodecamp.org/donate (minimum $60 if one-time)
 * Eloquent Javascript
+* Extensions:
+    * Markdown here (did once)
+    * Dark reader
 
 ## They Don't Need $$
 

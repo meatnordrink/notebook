@@ -27,6 +27,20 @@ As ad groups within campaign.
     * Not entirely sure how to a/b this, as I can't set it on a per-ad level. I wonder if I can create an audience out of people who have clicked on one campaign, and then exclude them from the other campaign....
 * Also try sending people to web onboard vs landing page. 
 
+* Try multiple-headlines/descriptions variant. If it does well, make that default. 
+* Depending on how Worldwide audience does, try English-speaking countries only audience.
+* *Once some of the April 15 experiments conclude, try introducing anxiety ads*
+
+## Recent Takeaways
+* CTA - "Install now" seems to do much better than "Download now"
+
+## IG
+**To-do**
+* Try "learn more" button variations after winnowing new creative.
+* Whichever image of this April group does best (even if bad), try with swapped description and title text.
+* Try adding more primary text options to an ad variant: Use testimonial, price variants. 
+* If the guy ad groups don't spend, try as separate campaign so I can control spend.
+
 # Google
 * Expand UAC campaign. Add another ad group...maybe with some imagery from the FB ads. 
 
