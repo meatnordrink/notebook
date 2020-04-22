@@ -59,6 +59,7 @@ Next:
         * Vines
 * Tycho
     * New Album - Simulcast - (maybe not - essentially Weather)
+    * Send and Receive (white, colored circles album) - yes
 * Jaques le Noir 
     * Japan
 * Ratatat?
@@ -72,6 +73,8 @@ Next:
     * See me speak in color (all?)
 * Beats Antique
     * Check out older albums (? maybe a little later? Already have two.)
+* Thievery Corporation
+    * The Shining Path (Green Masked Person Album)
 
 ## Chill playlist - Bandcamp
 

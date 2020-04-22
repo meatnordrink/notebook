@@ -25,13 +25,17 @@
 * RCV - $50ish?
 * North Wayne Church - $20
 
+
 (~2% of salary)
 
 ## 2020
 
+* Klobuchar/Bernie - $20 - 
 * ACLU - $15/mo
 * MSF - $15/mo
 * Hope House - $207
-
+* Musicares - $10 (Covid, music industry)
+* Holy Apostles Soup Kitchen (NY) - $15
+* RCV - $20
 
 

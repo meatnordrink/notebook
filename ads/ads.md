@@ -5,22 +5,9 @@
 
 # FB
 ## To do: 
-**Try new audiences next week:**
-As ad groups within campaign.
-* App-based lookalike audience
-* No-restrictions audience
 
-* Make a campaign targeting app events; free trials. Have to think about how to do this without competing with other campaign...
+* **To-do** - Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
 
-* If the fern still has low CPI, turn it off. (Did as of Apr 6th.)
-
-* IG campaign with no audience spending better; when we want more volume, as opposed to better profit ratio, could turn up. (Apr 6.)
-
-* Consider restarting old campaigns, just send them to the website. (Need to put the pixel on the website, set up a conversion event, if it's not already there.)
-* Could consider allowing other platforms. 
-* *Reduced daily spend on main campaign from $200 to $150; Mar 23*
-
-* Try app-based lookalike audiences when available.
 * Try retargeting people who downloaded but did not purchase.
 * Try ads featuring image of app; try Rewards. 
 * Ads that send people to landing page vs straight to app. 
@@ -42,18 +29,21 @@ As ad groups within campaign.
 * If the guy ad groups don't spend, try as separate campaign so I can control spend.
 
 # Google
-* Expand UAC campaign. Add another ad group...maybe with some imagery from the FB ads. 
+**App Installs**
+* (Apr 21) Paused anxiety, images; poor spend. Try anxiety as separate campaign with limited budget. (Maybe images as well.) 
+**Anxiety Search**
+* Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")
+* In Anxiety EM:
+    * If Ad 393355864264 continues to suck (high CTR, low conversion rate), pause it.
+**Depression Search**
+* Check on quarantine ads. Make sure spend shifted to exact match; check which ads are doing well and adjust based on that. 
 
-* Tweak ad copy to be clear it's for iOS, not Android, to reduce Android clicks.
-* Wrap conversion in iOS-only JS. (Maybe algorithm will pick up on this anyway...)
+
 * Create ad group for `ios depression app` `iphone depression app`.
-* Try to expand the iOS app install campaign. 
 * Go into exact match campaign, figure out why spend is lower, cost higher than broad.
 
 
-* First, get to frigging spend. It may be that I need to dive into the Firebase setup.
-    * No, it was the target CPA (at least, for some of the campaigns.) Spending now (Mar 19), let it spend over the weekend, then **go in and optimize.**
-* Add other ad groups from "Depression General"
+
 * Add a "Depression + Anxiety" group; exclude that from other searches. 
 * Ads that send people to landing page vs straight to app. 
 * Check out the bid simulator; check out which spend level (according to Google) we'd get the most profit.
