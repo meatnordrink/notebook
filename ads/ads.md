@@ -6,7 +6,9 @@
 # FB
 ## To do: 
 
-* **To-do** - Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
+* **To-do** 
+    - Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
+    - Try a video ad. (Just moving text, transitions.)
 
 * Try retargeting people who downloaded but did not purchase.
 * Try ads featuring image of app; try Rewards. 
