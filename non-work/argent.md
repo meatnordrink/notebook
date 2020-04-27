@@ -1,3 +1,5 @@
+## Robinhood
+
 (Lost? previous - believe it was: $11,280.95, immediately after $1000 deposit.)
 
 * Dec 16: $11,118.90
@@ -55,3 +57,8 @@ $2,500.00
 108.885
 $22.96
 108.885
+## Domini
+
+$4000 prior to 4/21/2020
+* $500 - 4/21/2020 (22.23? at time of submittal; check purchase.)
+    * purchase above ended up coming in at 22, I believe; so not instantaneous...but would have to check by day to know when.)
