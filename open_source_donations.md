@@ -23,6 +23,8 @@
 * Extensions:
     * Markdown here (did once)
     * Dark reader
+* VSCode Extensions:
+    * Settings Sync
 
 ## They Don't Need $$
 

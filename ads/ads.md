@@ -7,8 +7,11 @@
 ## To do: 
 
 * **To-do** 
-    - Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
-    - Try a video ad. (Just moving text, transitions.)
+    * If fern keeps doing badly (Was as of May 1st), turn off. 
+
+- Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
+- Try a video ad. (Just moving text, transitions.)
+
 
 * Try retargeting people who downloaded but did not purchase.
 * Try ads featuring image of app; try Rewards. 
@@ -17,7 +20,6 @@
 * Also try sending people to web onboard vs landing page. 
 
 * Try multiple-headlines/descriptions variant. If it does well, make that default. 
-* Depending on how Worldwide audience does, try English-speaking countries only audience.
 * *Once some of the April 15 experiments conclude, try introducing anxiety ads*
 
 ## Recent Takeaways
@@ -25,14 +27,14 @@
 
 ## IG
 **To-do**
-* Try "learn more" button variations after winnowing new creative.
-* Whichever image of this April group does best (even if bad), try with swapped description and title text.
-* Try adding more primary text options to an ad variant: Use testimonial, price variants. 
-* If the guy ad groups don't spend, try as separate campaign so I can control spend.
+* If not-men group doesn't start spending (after April 27ish switch to non-global), break into separate campaign.
 
 # Google
 **App Installs**
 * (Apr 21) Paused anxiety, images; poor spend. Try anxiety as separate campaign with limited budget. (Maybe images as well.) 
+* Shut off additional image, alt text campaigns; may be directly competing. Just added into existing campaign. Still want to try Anxiety as an independent campaign, though. 
+* Expanded countries targeted (May 1). If CPR increases, reverse. 
+* *To do* - try switching from "in or interested in" to "living in or regularly in" targeted locations for app install ads. Keep budget steady. If it doesn't increase costs, probably a good idea. (As people in our locations, rather than interested in, are more likely to have the money to purchase.)
 **Anxiety Search**
 * Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")
 * In Anxiety EM:

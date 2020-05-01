@@ -1,0 +1,1 @@
+* Open application to Vercel: https://vercel.com/careers

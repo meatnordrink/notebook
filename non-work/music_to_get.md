@@ -3,12 +3,6 @@ Next:
 * Emancipator -?
 * Lil fish - ?
 
-## Tracks not for Work
-* The Good Ones
-    * Life is Hard
-    * 
-* Michael Franti
-
 
 ## Not on Bandcamp
 * edIT - more lazers
