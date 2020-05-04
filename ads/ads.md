@@ -8,6 +8,9 @@
 
 * **To-do** 
     * If fern keeps doing badly (Was as of May 1st), turn off. 
+    * Increased spend from 45 to 52 on FB campaign, *May 4th*. Was .54/install. Check. 
+    * Added "lotus" and "artsy woman" ads *May 4th*. Check. (See if initial CPR is high...)
+    * If Droplet and Guy keep not spending (after May 4), turn off and try some more of the other potential creative from the test campaign. 
 
 - Consider revisiting "New April Creative" group and trying a few more of them in an active campaign. 
 - Try a video ad. (Just moving text, transitions.)
@@ -27,11 +30,13 @@
 
 ## IG
 **To-do**
-* If not-men group doesn't start spending (after April 27ish switch to non-global), break into separate campaign.
+* *May 4th* - limited men campaign to $1.50 spend. Check in a few days, potentially limit further.
+* If you can get this spending at a reasonable CPR, consider moving from "bid cap" to "lowest cost."
 
 # Google
 **App Installs**
 * (Apr 21) Paused anxiety, images; poor spend. Try anxiety as separate campaign with limited budget. (Maybe images as well.) 
+    * Trying anxiety as separate campaign. So far, not doing well (May 4th), but hasn't had long. If it doesn't start doing better, cut spend to $1, then kill if it continues to have high CPR.
 * Shut off additional image, alt text campaigns; may be directly competing. Just added into existing campaign. Still want to try Anxiety as an independent campaign, though. 
 * Expanded countries targeted (May 1). If CPR increases, reverse. 
 * *To do* - try switching from "in or interested in" to "living in or regularly in" targeted locations for app install ads. Keep budget steady. If it doesn't increase costs, probably a good idea. (As people in our locations, rather than interested in, are more likely to have the money to purchase.)
@@ -40,13 +45,12 @@
 * In Anxiety EM:
     * If Ad 393355864264 continues to suck (high CTR, low conversion rate), pause it.
 **Depression Search**
-* Check on quarantine ads. Make sure spend shifted to exact match; check which ads are doing well and adjust based on that. 
+* *Notes, May 4* 
+    * the Fight Depression ad group was using Beat Depression in ads. May account for higher ad spend? Fixed, keep an eye on. (Hopefully that and adding negative keywords to Fight Depression will have a positive effect on its CPR.)
+    * Increased Anxiety BMM campaign. If CPR increases, try disabling explicit cost ad variant.  
 
 
 * Create ad group for `ios depression app` `iphone depression app`.
-* Go into exact match campaign, figure out why spend is lower, cost higher than broad.
-
-
 
 * Add a "Depression + Anxiety" group; exclude that from other searches. 
 * Ads that send people to landing page vs straight to app. 
