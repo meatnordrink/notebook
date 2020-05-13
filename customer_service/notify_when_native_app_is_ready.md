@@ -26,3 +26,4 @@ You'll get a confusing email about a subscription that will last a year, but not
 * mathieuputz@gmail.com
 * owen_goodwin@me.com
 * lai.ogunsola@googlemail.com
+* tkjthorpe@aol.com
