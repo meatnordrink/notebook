@@ -42,7 +42,8 @@
 * May 12th - expanded search campaigns to all countries. 
 
 **Anxiety Search**
-* Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")
+* *Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")*
+* Make sure/create "anxiety app" campaign.
 * In Anxiety EM:
     * If Ad 393355864264 continues to suck (high CTR, low conversion rate), pause it.
 **Depression Search**
