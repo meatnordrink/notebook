@@ -6,6 +6,9 @@
 **Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
 
 # FB
+
+*Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.*
+
 ## To do: 
 
 **When possible, make a lookalike audience based on purchasers.**
