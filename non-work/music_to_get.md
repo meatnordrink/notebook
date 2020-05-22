@@ -1,7 +1,26 @@
 Next: 
-* Clozinger -?
-* Emancipator -?
-* Lil fish - ?
+* Lil Fish - Vertus whatever.
+* Clozinger
+* Emancipator - Greenland
+* Bonobo
+* Little People
+* Rising Appalachia?
+* Lindsey Stirling
+* Abigail Washburn & Bela Fleck
+* Pentatonix - Radioactive
+* Tycho
+    - Elegy (sun)
+
+*Checkout*
+* David Last (did Makeout Stakeout)
+* Tosca (Joe Si Ha)
+* Cantoma (Marisi)
+* Carmen Rizzo (Amborella)
+
+*Non-work*
+* Herb Alpert
+* Johnny Flynn
+
 
 
 ## Not on Bandcamp

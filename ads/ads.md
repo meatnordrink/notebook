@@ -6,13 +6,14 @@
 **Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
 
 # FB
-
-*Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.*
+(To below - took of min spend from men campaign, May 18.)
+*Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.* 
 
 ## To do: 
 
 **When possible, make a lookalike audience based on purchasers.**
 **When possible, make a campaign that optimizes for purchases (once we have min 50/month...but prob 50/week.)**
+**Move rest of April creative into FB campaign; take out non-performing.**
 
 * **To-do** 
     * New creative May 4, 11. Spend has been increasing; check around the 16th or so, and whatever's not spending/high, turn off and throw in others from April round.  
