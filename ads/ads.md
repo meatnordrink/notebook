@@ -17,6 +17,7 @@
 
 * **To-do** 
     * New creative May 4, 11. Spend has been increasing; check around the 16th or so, and whatever's not spending/high, turn off and throw in others from April round.  
+    * Started new copy tests 5/26; check, if don't spend, look at forcing.
 
 - Try a video ad. (Just moving text, transitions.)
 
@@ -39,11 +40,7 @@
 
 # Google
 **App Installs**
-* Expanded countries targeted (May 1). If CPR increases, reverse. 
-* *To do* - try switching from "in or interested in" to "living in or regularly in" targeted locations for app install ads. Keep budget steady. If it doesn't increase costs, probably a good idea. (As people in our locations, rather than interested in, are more likely to have the money to purchase.)
-* *To do* - depending on by-country results of app install campaigns, try separating US, other countries into two campaigns. (Could do the same for FB, actually.
-)
-* May 12th - expanded search campaigns to all countries. 
+* Swapped out `Tested program for depression` in *ios App Installs* campaign with Boston Globe quote, 5/26. Check performance, respond accordingly. (If good, expand to other campaigns.) (Also tested one ad in Dep Gen, BMM, Search.)
 
 **Anxiety Search**
 * *Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")*
