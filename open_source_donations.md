@@ -23,8 +23,10 @@
 * Extensions:
     * Markdown here (did once)
     * Dark reader
+    * The Great Suspender
 * VSCode Extensions:
     * Settings Sync
+* Foliate   
 
 ## They Don't Need $$
 
