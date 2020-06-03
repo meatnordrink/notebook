@@ -1,7 +1,3 @@
-## Shut-down script to push all repos with changes
-* Checking for changes: 
-https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-my-local-git-repository-has-changes#5143914
-
 
 * CLI knowledge base, Python
 * CLI Timeline, python
@@ -35,3 +31,4 @@ https://stackoverflow.com/questions/5143795/how-can-i-check-in-a-bash-script-if-
 ## OS
 
 * Make linear gauge into open source repo, npm module
+* Make clean-code-javascript into an Epub book. 

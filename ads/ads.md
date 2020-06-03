@@ -3,13 +3,13 @@
 
 **Leave spend stable for a bit; try to make tweaks to increase purchases/$ (leave stable to increase visibility on this)** (But, covid...might want to reduce, *then* leave stable.)
 
-**Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
-
+* **Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
+    * Consider tweaking prices, breaking out campaigns by country. 
 # FB
-(To below - took of min spend from men campaign, May 18.)
-*Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.* 
 
 ## To do: 
+*Copy Tests* - Were messed up. Reset Jun 1st. Based on what does well, expand to other ads. (Whatever wins in the copy tests, look at creating a new Apple Search ad with it...or maybe try them out as an advanced search campaign ad...) Also, try an ad with the mountain background at some point. 
+
 
 **When possible, make a lookalike audience based on purchasers.**
 **When possible, make a campaign that optimizes for purchases (once we have min 50/month...but prob 50/week.)**
@@ -17,7 +17,7 @@
 
 * **To-do** 
     * New creative May 4, 11. Spend has been increasing; check around the 16th or so, and whatever's not spending/high, turn off and throw in others from April round.  
-    * Started new copy tests 5/26; check, if don't spend, look at forcing.
+
 
 - Try a video ad. (Just moving text, transitions.)
 

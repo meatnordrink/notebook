@@ -26,7 +26,7 @@
     * The Great Suspender
 * VSCode Extensions:
     * Settings Sync
-* Foliate   
+* Foliate - (Doesn't seem to need; can't see anyplace to donate.)  
 
 ## They Don't Need $$
 
