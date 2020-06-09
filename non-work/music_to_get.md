@@ -1,9 +1,15 @@
 Next: 
-* Lil Fish - Vertus whatever.
+* Gravitas - 
+   * Lailoken x Benza - yes
+   * Bamboo - yes
+   * Monolith
 * Clozinger
+  * Sinking - yes -- then checkout bonobo, thievery
+* Emancipator - Maps and Father King
+
 * Emancipator - Greenland
 * Bonobo
-* Little People
+    * Migration?
 * Rising Appalachia?
 * Lindsey Stirling
 * Abigail Washburn & Bela Fleck
