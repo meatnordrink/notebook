@@ -1,7 +1,32 @@
 Next: 
-* Clozinger -?
-* Emancipator -?
-* Lil fish - ?
+* Gravitas - 
+   * Lailoken x Benza - yes
+   * Bamboo - yes
+   * Monolith
+* Clozinger
+  * Sinking - yes -- then checkout bonobo, thievery
+* Emancipator - Maps and Father King
+
+* Emancipator - Greenland
+* Bonobo
+    * Migration?
+* Rising Appalachia?
+* Lindsey Stirling
+* Abigail Washburn & Bela Fleck
+* Pentatonix - Radioactive
+* Tycho
+    - Elegy (sun)
+
+*Checkout*
+* David Last (did Makeout Stakeout)
+* Tosca (Joe Si Ha)
+* Cantoma (Marisi)
+* Carmen Rizzo (Amborella)
+
+*Non-work*
+* Herb Alpert
+* Johnny Flynn
+
 
 
 ## Not on Bandcamp

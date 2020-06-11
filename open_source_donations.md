@@ -21,10 +21,12 @@
 * Free Code Camp - https://www.freecodecamp.org/donate (minimum $60 if one-time)
 * Eloquent Javascript
 * Extensions:
-    * Markdown here (did once)
-    * Dark reader
+    * Markdown here (did once) - $2/3 - again
+    * Dark reader - yes - $2/3 - https://darkreader.org/help/en/
+    * The Great Suspender
 * VSCode Extensions:
     * Settings Sync
+* Foliate - (Doesn't seem to need; can't see anyplace to donate.)  
 
 ## They Don't Need $$
 

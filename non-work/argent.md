@@ -9,7 +9,7 @@
 * Mar 11 2020: 500
 * Mar 13, 2020: $500
 * Mar 20, 2020: $500
-* May 7th, 2020: $500 in. (at $17,945 on May 8th.)
+* May 7th, 2020: $500 in. (at $17,945 on May 8th.) [Should be about $18,700, going from Dec. 16th level; up $1400.]
 
 
 Domini - 

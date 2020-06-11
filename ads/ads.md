@@ -3,20 +3,24 @@
 
 **Leave spend stable for a bit; try to make tweaks to increase purchases/$ (leave stable to increase visibility on this)** (But, covid...might want to reduce, *then* leave stable.)
 
-**Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
-
+* **Do an analysis of purchasers by country; correlate that to ad spend by country. Adjust as appropriate based on which countries are most profitable.** 
+    * Consider tweaking prices, breaking out campaigns by country. 
 # FB
 
 *Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.*
    - removed mandatory spend from men campaignx
 
 ## To do: 
+*Copy Tests* - Were messed up. Reset Jun 1st. Based on what does well, expand to other ads. (Whatever wins in the copy tests, look at creating a new Apple Search ad with it...or maybe try them out as an advanced search campaign ad...) Also, try an ad with the mountain background at some point. 
+
 
 **When possible, make a lookalike audience based on purchasers.**
 **When possible, make a campaign that optimizes for purchases (once we have min 50/month...but prob 50/week.)**
+**Move rest of April creative into FB campaign; take out non-performing.**
 
 * **To-do** 
     * New creative May 4, 11. Spend has been increasing; check around the 16th or so, and whatever's not spending/high, turn off and throw in others from April round.  
+
 
 - Try a video ad. (Just moving text, transitions.)
 
@@ -39,11 +43,7 @@
 
 # Google
 **App Installs**
-* Expanded countries targeted (May 1). If CPR increases, reverse. 
-* *To do* - try switching from "in or interested in" to "living in or regularly in" targeted locations for app install ads. Keep budget steady. If it doesn't increase costs, probably a good idea. (As people in our locations, rather than interested in, are more likely to have the money to purchase.)
-* *To do* - depending on by-country results of app install campaigns, try separating US, other countries into two campaigns. (Could do the same for FB, actually.
-)
-* May 12th - expanded search campaigns to all countries. 
+* Swapped out `Tested program for depression` in *ios App Installs* campaign with Boston Globe quote, 5/26. Check performance, respond accordingly. (If good, expand to other campaigns.) (Also tested one ad in Dep Gen, BMM, Search.)
 
 **Anxiety Search**
 * *Go into Anxiety BMM and break out successful keywords ("How to get rid of anxiety")*
