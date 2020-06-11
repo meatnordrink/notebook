@@ -1,3 +1,7 @@
+## Gen
+
+* Reset fb ads after errors by changing name
+
 ## Targeting by OS/Device
 
 **FB**

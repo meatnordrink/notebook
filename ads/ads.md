@@ -8,6 +8,7 @@
 # FB
 
 *Launched India campaign on May 15th. If it doesn't do well, try creating from scratch; repurposed the old one that had done well.*
+   - removed mandatory spend from men campaignx
 
 ## To do: 
 
