@@ -32,3 +32,8 @@
 
 * Make linear gauge into open source repo, npm module
 * Make clean-code-javascript into an Epub book. 
+
+## Website With:
+(See Firefox notes)
+* **React**
+    * How to serve a CRA app using client-side routing from a subdirectory.
