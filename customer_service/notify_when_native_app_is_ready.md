@@ -30,3 +30,4 @@ You'll get a confusing email about a subscription that will last a year, but not
 * ghautur@gmail.com
 * kb.tanager@gmail.com
 * ashtonm26@gmail.com
+* clinton.dalton360@gmail.com
