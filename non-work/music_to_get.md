@@ -1,15 +1,9 @@
 Next: 
-* Gravitas - 
-   * Lailoken x Benza - yes
-   * Bamboo - yes
-   * Monolith
-* Clozinger
-  * Sinking - yes -- then checkout bonobo, thievery
-* Emancipator - Maps and Father King
+* Pseudo-classical
+* Bonobo - migration?
+* Emancipator - Maps and Father King, Greenland
+* More Morillo
 
-* Emancipator - Greenland
-* Bonobo
-    * Migration?
 * Rising Appalachia?
 * Lindsey Stirling
 * Abigail Washburn & Bela Fleck
@@ -22,10 +16,12 @@ Next:
 * Tosca (Joe Si Ha)
 * Cantoma (Marisi)
 * Carmen Rizzo (Amborella)
+* Botany
 
 *Non-work*
 * Herb Alpert
 * Johnny Flynn
+* Atmosphere
 
 
 
