@@ -3,6 +3,9 @@ Next:
 * Bonobo - migration?
 * Emancipator - Maps and Father King, Greenland
 * More Morillo
+   * Heiroglyphs, - hieroglyphs
+   * Pathway, - Shikaka
+   (Maybe check out singles...)
 
 * Rising Appalachia?
 * Lindsey Stirling
