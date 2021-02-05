@@ -1,8 +1,8 @@
 Next: 
-* Pseudo-classical
+* Moderna, Summer Singles - https://modernarecords.bandcamp.com/album/2020-summer-single-series
 * Bonobo - migration?
-* Emancipator - Maps and Father King, Greenland
 * More Morillo
+   * Re-listen to new album
    * Heiroglyphs, - hieroglyphs
    * Pathway, - Shikaka
    (Maybe check out singles...)
